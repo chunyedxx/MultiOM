@@ -2,8 +2,10 @@
 Source code and datasets for OM2019 paper "Multi-view Embedding for Biomedical Ontology Matching "
 # Code
 the model in our experiment are in the following scripts:  
+---
 * ontomap.py  
 * ontomap_syn.py  
+---
 To train these model, please run；  
 * train_ontomap.py  
 * train_ontomap_syn.py  
