@@ -1,5 +1,5 @@
 # MultiOM
-Source code and datasets for OM2019 research paper "Multi-view Embedding for Biomedical Ontology Matching "
+Source code and datasets for OM2019 paper "Multi-view Embedding for Biomedical Ontology Matching "
 # Code
 the model in our experiment are in the following scripts:  
 ontomap.py  
