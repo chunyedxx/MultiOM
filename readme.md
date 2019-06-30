@@ -5,8 +5,8 @@ the model in our experiment are in the following scripts:
 ontomap.py  
 ontomap_syn.py  
 To train these model, please run；  
-train_ontomap.py
-train_ontomap_syn.py
+train_ontomap.py  
+train_ontomap_syn.py  
 To evalute the effective of our model, please run the scripts in align_evalute:  
 align_onto.py  
 align_onto_syn.py  
@@ -20,9 +20,9 @@ Numpy
 # Datasets
 In our experiment, we use the Medical Ontology FMA, NCI and MA.The detail of our datasets are in the floder Datasets, you can get the whole datasets in it.
 ## Directory structure
-the train data are in the directory ../Datasets/DXX_UQU and ../Datasets/DXX_SYN
-
-
+the train data are in the directory:  
+../Datasets/DXX_UQU  
+../Datasets/DXX_SYN  
 # Dataset files
 # Running and parameters
 Due to the instability of embedding-based methods, it is acceptable that the results fluctuate a little bit (±1%) when running code repeatedly.
