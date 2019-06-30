@@ -23,7 +23,7 @@ In our experiment, we use the Medical Ontology FMA, NCI and MA.The detail of our
 the train data are in the directory:  
 ../Datasets/DXX_UQU  
 ../Datasets/DXX_SYN  
-# Dataset files
+
 # Running and parameters
 Due to the instability of embedding-based methods, it is acceptable that the results fluctuate a little bit (±1%) when running code repeatedly.
 # Citation
