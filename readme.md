@@ -1,15 +1,3 @@
----
-title: 更新内容
-tags: 更新说明,小书匠
-grammar_mindmap: true
-renderNumberedHeading: true
-grammar_code: true
-grammar_mathjax: true
----
-
-
-[toc!?direction=lr]
-
 # MultiOM
 Source code and datasets for OM2019 research paper "Multi-view Embedding for Biomedical Ontology Matching "
 # Code
