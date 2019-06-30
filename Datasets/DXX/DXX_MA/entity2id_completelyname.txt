@@ -1,0 +1,2737 @@
+MA_0000322--synovial joint	0
+MA_0001347--triquetral	1
+MA_0001942--dorsal artery of foot	2
+MA_0001565--esophagus epithelium	3
+MA_0001706--ovary capsule	4
+MA_0001098--optic chiasma	5
+MA_0001355--cuboid	6
+MA_0002392--teres major	7
+MA_0002284--cricothyroid	8
+MA_0002390--temporalis	9
+MA_0002027--profunda femoris artery	10
+MA_0001513--joint of vertebral arch	11
+MA_0000014--integumental system	12
+MA_0002680--esophagus mucosa	13
+MA_0001496--vomer bone	14
+MA_0000058--white fat	15
+MA_0002708--nail plate	16
+MA_0002331--latissimus dorsi	17
+MA_0001707--ovary follicle	18
+MA_0002491--urinary bladder neck	19
+MA_0000916--parietal cortex	20
+MA_0000655--hip bone	21
+MA_0000666--knee bone	22
+MA_0002465--vaginal hymen	23
+MA_0000774--nasopharyngeal tonsil	24
+MA_0002064--thoraco-acromial artery	25
+MA_0000976--olfactory tubercle	26
+MA_0000889--pallidum	27
+MA_0000231--spinal ganglion	28
+MA_0000909--insular cortex	29
+MA_0001717--right oviduct	30
+MA_0001716--left oviduct	31
+MA_0001692--urinary bladder mucosa	32
+MA_0002217--small saphenous vein	33
+MA_0001421--cervical vertebra 1	34
+MA_0001562--small intestine submucosa	35
+MA_0001422--cervical vertebra 2	36
+MA_0000057--brown fat	37
+MA_0000086--heart valve	38
+MA_0000310--caudal vertebra	39
+MA_0001207--anterior semicircular canal	40
+MA_0002026--profunda brachii artery	41
+MA_0001651--renal column	42
+MA_0000860--pars posterior	43
+MA_0001305--choroid fissure	44
+MA_0000896--lentiform nucleus	45
+MA_0002046--left subclavian artery	46
+MA_0001300--lens capsule	47
+MA_0000047--leg	48
+MA_0001623--lesser omentum	49
+MA_0001704--left ovary	50
+MA_0001843--left main bronchus	51
+MA_0000425--left lung	52
+MA_0002032--left pulmonary artery	53
+MA_0000437--lobar bronchus	54
+MA_0002332--levator ani	55
+MA_0002535--nasal mucus	56
+MA_0002526--seminal vesicle secretion	57
+MA_0002470--submandibular ganglion	58
+MA_0002469--parasympathetic ganglion	59
+MA_0002309--gluteus maximus	60
+MA_0001308--retina photoreceptor layer	61
+MA_0001927--left common carotid artery	62
+MA_0001638--left hepatic duct	63
+MA_0001292--pupil	64
+MA_0002381--spinalis thoracis	65
+MA_0002096--cerebral vein	66
+MA_0002098--cutaneous vein	67
+MA_0000096--purkinje fiber	68
+MA_0002140--ileal vein	69
+MA_0002383--sternohyoid	70
+MA_0002141--ileocolic vein	71
+MA_0002146--ilio-lumbar vein	72
+MA_0000255--auditory tube	73
+MA_0002359--psoas minor	74
+MA_0002234--testicular vein	75
+MA_0002149--internal spermatic vein	76
+MA_0002218--spermatic vein	77
+MA_0002358--psoas major	78
+MA_0002167--masseteric vein	79
+MA_0002183--obturator vein	80
+MA_0002364--rectus abdominis	81
+MA_0002244--anterior tibial vein	82
+MA_0000204--pons	83
+MA_0002065--thoracodorsal artery	84
+MA_0000207--midbrain	85
+MA_0000257--tympanic membrane	86
+MA_0000348--tooth	87
+MA_0002083--anterior auricular vein	88
+MA_0002068--transverse facial artery	89
+MA_0002085--azygos vein	90
+MA_0001068--superior colliculus	91
+MA_0002088--bronchial vein	92
+MA_0001867--superior sagittal sinus	93
+MA_0002362--quadratus lumborum	94
+MA_0002093--cerebellar vein	95
+MA_0002049--sublingual artery	96
+MA_0002048--subcostal artery	97
+MA_0002052--superficial cervical artery	98
+MA_0002374--semispinalis thoracis	99
+MA_0002573--axillary artery	100
+MA_0000308--axial skeleton	101
+MA_0002084--axillary vein	102
+MA_0000388--unfertilized egg	103
+MA_0002086--basilic vein	104
+MA_0000487--articular cartilage	105
+MA_0001639--right hepatic duct	106
+MA_0001928--right common carotid artery	107
+MA_0000279--pigmented retinal epithelium	108
+MA_0000033--arm	109
+MA_0000376--renal corpuscle	110
+MA_0000423--respiratory bronchiole	111
+MA_0002210--renal vein	112
+MA_0002730--renal papilla	113
+MA_0002186--ovarian vein	114
+MA_0002189--pancreatic vein	115
+MA_0002500--right pulmonary artery	116
+MA_0000259--auricle	117
+MA_0002187--pericardiacophrenic vein	118
+MA_0000095--atrioventricular node	119
+MA_0000254--auditory bone	120
+MA_0002047--right subclavian artery	121
+MA_0002576--atrioventricular bundle	122
+MA_0001759--arytenoid cartilage	123
+MA_0001705--right ovary	124
+MA_0002424--soleus	125
+MA_0001849--right main bronchus	126
+MA_0002402--vastus lateralis	127
+MA_0000426--right lung	128
+MA_0002570--ascending aorta	129
+MA_0002386--sternothyroid	130
+MA_0002387--styloglossus	131
+MA_0000358--liver	132
+MA_0000415--lung	133
+MA_0000141--spleen	134
+MA_0000004--trunk	135
+MA_0000115--tendon	136
+MA_0000113--ligament	137
+MA_0000319--joint	138
+MA_0002436--lymphoid tissue	139
+MA_0000412--seminiferous tubule	140
+MA_0000375--nephron	141
+MA_0002439--skeletal muscle tissue	142
+MA_0000165--skeletal muscle	143
+MA_0000015--muscle	144
+MA_0000099--pericardium	145
+MA_0001551--brunner's gland	146
+MA_0002169--maxillary vein	147
+MA_0002157--internal jugular vein	148
+MA_0002326--intercostales internus	149
+MA_0001974--internal iliac artery	150
+MA_0002145--internal iliac vein	151
+MA_0002139--hypogastric vein	152
+MA_0000085--ventricular septum	153
+MA_0000084--atrial septum	154
+MA_0001922--brachiocephalic trunk	155
+MA_0000737--inguinal lymph node	156
+MA_0001534--internal anal sphincter	157
+MA_0001930--internal carotid artery	158
+MA_0002668--interlobular bile duct	159
+MA_0002324--intercostales	160
+MA_0002467--periodontal ligament	161
+MA_0000538--perineal muscle	162
+MA_0002466--perineum	163
+MA_0000261--eye	164
+MA_0000129--thyroid gland	165
+MA_0002018--peroneal artery	166
+MA_0002019--phrenic artery	167
+MA_0001116--pia mater	168
+MA_0000471--knee joint	169
+MA_0000045--hip	170
+MA_0001337--ischium	171
+MA_0000727--thyroid gland isthmus	172
+MA_0002546--juxtaglomerular complex	173
+MA_0000895--putamen	174
+MA_0000894--caudate nucleus	175
+MA_0000877--subthalamic nucleus	176
+MA_0000210--substantia nigra	177
+MA_0000171--diencephalon	178
+MA_0000170--forebrain	179
+MA_0000184--basal ganglia	180
+MA_0000188--corpus callosum	181
+MA_0000890--globus pallidus	182
+MA_0000329--anal region	183
+MA_0000891--striatum	184
+MA_0001504--symphysis	185
+MA_0000305--foot phalanx	186
+MA_0002567--corpora quadrigemina	187
+MA_0000232--dorsal root ganglion	188
+MA_0000218--peripheral nervous system	189
+MA_0000216--spinal cord	190
+MA_0000226--sympathetic ganglion	191
+MA_0000217--nerve	192
+MA_0000173--hypothalamus	193
+MA_0000417--alveolar duct	194
+MA_0000172--epithalamus	195
+MA_0002245--posterior tibial vein	196
+MA_0000179--thalamus	197
+MA_0000418--alveolar sac	198
+MA_0000117--adrenal gland capsule	199
+MA_0000152--dermis	200
+MA_0000151--skin	201
+MA_0000009--adipose tissue	202
+MA_0000114--synovium	203
+MA_0000433--pleura	204
+MA_0000327--respiratory system	205
+MA_0002722--anterior commissure	206
+MA_0000463--ankle joint	207
+MA_0000404--prostate gland	208
+MA_0000411--testis	209
+MA_0000385--oviduct	210
+MA_0002743--posterior commissure	211
+MA_0000389--uterus	212
+MA_0000384--ovary	213
+MA_0000394--vagina	214
+MA_0000408--penis	215
+MA_0000395--vulva	216
+MA_0002197--popliteal vein	217
+MA_0002474--mouth	218
+MA_0000341--oral region	219
+MA_0002021--popliteal artery	220
+MA_0000414--larynx	221
+MA_0000443--nasopharynx	222
+MA_0000347--tongue	223
+MA_0000380--urinary bladder	224
+MA_0000003--organ system	225
+MA_0000378--ureter	226
+MA_0002499--portal triad	227
+MA_0000368--kidney	228
+MA_0002132--hepatic portal vein	229
+MA_0002198--portal vein	230
+MA_0000379--urethra	231
+MA_0002498--portal lobule	232
+MA_0001963--hepatic artery	233
+MA_0000023--head	234
+MA_0000474--abdominal aorta	235
+MA_0000134--bone marrow	236
+MA_0000059--blood	237
+MA_0000142--thymus	238
+MA_0000432--pharynx	239
+MA_0001067--inferior colliculus	240
+MA_0000284--nasal cavity	241
+MA_0001209--posterior semicircular canal	242
+MA_0001585--parotid gland	243
+MA_0000346--salivary gland	244
+MA_0000007--limb	245
+MA_0000441--trachea	246
+MA_0001335--acetabulum	247
+MA_0000887--amygdala	248
+MA_0000185--cerebral cortex	249
+MA_0002754--neocortex	250
+MA_0000206--medulla oblongata	251
+MA_0000205--myelencephalon	252
+MA_0000198--cerebellum	253
+MA_0002023--posterior communicating artery	254
+MA_0000191--hippocampus	255
+MA_0002438--striated muscle tissue	256
+MA_0002437--muscle tissue	257
+MA_0000016--nervous system	258
+MA_0000167--central nervous system	259
+MA_0002440--smooth muscle tissue	260
+MA_0000166--smooth muscle	261
+MA_0000168--brain	262
+MA_0000791--lactiferous duct	263
+MA_0001294--lacrimal canaliculus	264
+MA_0001298--lacrimal sac	265
+MA_0001486--lacrimal bone	266
+MA_0000274--lacrimal apparatus	267
+MA_0000260--external acoustic meatus	268
+MA_0000237--inner ear	269
+MA_0002155--anterior jugular vein	270
+MA_0000705--arteriole endothelium	271
+MA_0002513--bile	272
+MA_0001236--aqueous humour	273
+MA_0001351--talus	274
+MA_0000306--hand phalanx	275
+MA_0001934--superior cerebellar artery	276
+MA_0000243--cochlear duct	277
+MA_0001420--coccygeal vertebra	278
+MA_0001356--humerus	279
+MA_0000072--heart	280
+MA_0000091--heart ventricle	281
+MA_0001076--facial VII ganglion	282
+MA_0002420--gonad	283
+MA_0000073--heart atrium	284
+MA_0000888--claustrum	285
+MA_0000373--kidney medulla	286
+MA_0000026--hindlimb	287
+MA_0002435--lymphoid system	288
+MA_0002711--immune system	289
+MA_0000273--iris	290
+MA_0001524--bowel	291
+MA_0000328--intestine	292
+MA_0000372--kidney cortex	293
+MA_0000302--metacarpal bone	294
+MA_0001972--common iliac artery	295
+MA_0002660--common hepatic duct	296
+MA_0000088--mitral valve	297
+MA_0002143--common iliac vein	298
+MA_0002179--superior mesenteric vein	299
+MA_0000303--metatarsal bone	300
+MA_0000312--lumbar vertebra	301
+MA_0000275--lens	302
+MA_0000139--lymph node	303
+MA_0000278--optic disc	304
+MA_0000351--oropharynx	305
+MA_0000223--parasympathetic nervous system	306
+MA_0002551--colostrum	307
+MA_0000431--paranasal sinus	308
+MA_0000220--autonomic ganglion	309
+MA_0002005--superior mesenteric artery	310
+MA_0002418--musculoskeletal system	311
+MA_0001926--common carotid artery	312
+MA_0001468--occipital bone	313
+MA_0000281--nose	314
+MA_0001507--sternoclavicular joint	315
+MA_0001217--stapes	316
+MA_0001220--stapedius	317
+MA_0000391--myometrium	318
+MA_0002698--submandibular duct	319
+MA_0000960--subiculum	320
+MA_0000473--subcutaneous adipose tissue	321
+MA_0001269--ciliary muscle	322
+MA_0002045--subclavian artery	323
+MA_0001238--ciliary epithelium	324
+MA_0000215--cranial nerve	325
+MA_0001245--corneal stroma	326
+MA_0001904--diaphragm	327
+MA_0002050--subscapular artery	328
+MA_0002388--subscapularis	329
+MA_0002563--endocrine gland	330
+MA_0000012--endocrine system	331
+MA_0000153--epidermis	332
+MA_0001242--corneal endothelium	333
+MA_0000268--eyelid	334
+MA_0002564--exocrine gland	335
+MA_0001951--femoral artery	336
+MA_0001359--femur	337
+MA_0002118--femoral vein	338
+MA_0002406--ganglion	339
+MA_0001360--fibula	340
+MA_0000137--peyer's patch	341
+MA_0000178--neurohypophysis	342
+MA_0000177--adenohypophysis	343
+MA_0000176--pituitary gland	344
+MA_0000089--pulmonary valve	345
+MA_0002031--pulmonary artery	346
+MA_0002033--pulmonary trunk	347
+MA_0001469--parietal bone	348
+MA_0000128--parathyroid gland	349
+MA_0000228--peripheral nerve	350
+MA_0000030--pelvis	351
+MA_0000054--peritoneal cavity	352
+MA_0000315--rib	353
+MA_0000280--sclera	354
+MA_0001330--scapula	355
+MA_0002556--lunate	356
+MA_0000409--scrotum	357
+MA_0001357--radius	358
+MA_0002206--pulmonary vein	359
+MA_0000434--respiratory tract	360
+MA_0002035--renal artery	361
+MA_0001885--corniculate cartilage	362
+MA_0001472--sphenoid bone	363
+MA_0001331--sternum	364
+MA_0000233--spinal nerve	365
+MA_0000225--sympathetic nervous system	366
+MA_0002221--subclavian vein	367
+MA_0001476--temporal bone	368
+MA_0000297--tarsal bone	369
+MA_0000018--skeletal system	370
+MA_0000410--seminal vesicle	371
+MA_0000316--cranium	372
+MA_0000022--thorax	373
+MA_0000314--thoracic vertebra	374
+MA_0001509--costochondral joint	375
+MA_0000401--bulbourethral gland	376
+MA_0001510--costovertebral joint	377
+MA_0000106--costal cartilage	378
+MA_0000199--cerebellar cortex	379
+MA_0000711--capillary endothelium	380
+MA_0001978--inferior epigastric artery	381
+MA_0002538--sebum	382
+MA_0002522--semen	383
+MA_0002507--saliva	384
+MA_0002539--sweat	385
+MA_0001576--gingival epithelium	386
+MA_0001931--celiac artery	387
+MA_0001924--buccal artery	388
+MA_0002545--urine	389
+MA_0001976--ilio-lumbar artery	390
+MA_0001886--external ear cartilage	391
+MA_0001159--thoracic ganglion	392
+MA_0001158--celiac ganglion	393
+MA_0001138--cardiac nerve plexus	394
+MA_0002509--feces	395
+MA_0000038--shoulder	396
+MA_0001181--lumbosacral plexus	397
+MA_0001272--levator palpebrae superioris	398
+MA_0001173--tibial nerve	399
+MA_0001174--ulnar nerve	400
+MA_0001168--median nerve	401
+MA_0001167--femoral nerve	402
+MA_0001170--phrenic nerve	403
+MA_0001657--glomerulus	404
+MA_0001166--axillary nerve	405
+MA_0002520--lymph	406
+MA_0001171--radial nerve	407
+MA_0002552--mammary gland milk	408
+MA_0001172--sciatic nerve	409
+MA_0002080--superior vesical artery	410
+MA_0002079--inferior vesical artery	411
+MA_0002105--dorsal metatarsal vein	412
+MA_0002211--left renal vein	413
+MA_0002151--right internal spermatic vein	414
+MA_0002220--right spermatic vein	415
+MA_0002237--internal thoracic vein	416
+MA_0002212--right renal vein	417
+MA_0002150--left internal spermatic vein	418
+MA_0002219--left spermatic vein	419
+MA_0002240--deep temporal vein	420
+MA_0002566--sensory ganglion	421
+MA_0000024--neck	422
+MA_0000020--back	423
+MA_0002475--cheek	424
+MA_0002473--face	425
+MA_0002748--internal capsule	426
+MA_0000459--shoulder joint	427
+MA_0002317--hyoglossus	428
+MA_0002336--longissimus capitis	429
+MA_0002337--longissimus cervicis	430
+MA_0002333--levator labii superioris	431
+MA_0000120--pancreas	432
+MA_0000127--pancreatic islet	433
+MA_0002339--longissimus thoracis	434
+MA_0002495--bile canaliculus	435
+MA_0002357--pronator teres	436
+MA_0002356--peroneus longus	437
+MA_0001375--sesamoid bone	438
+MA_0002382--splenius	439
+MA_0002393--thyrohyoid	440
+MA_0002365--rectus femoris	441
+MA_0002375--semitendinosus	442
+MA_0002351--palatoglossus	443
+MA_0002239--temporal vein	444
+MA_0002262--vertebral vein	445
+MA_0002246--thymic vein	446
+MA_0002271--brachialis	447
+MA_0000738--popliteal lymph node	448
+MA_0002270--biceps femoris	449
+MA_0001124--substantia gelatinosa	450
+MA_0001660--glomerular capsule	451
+MA_0000097--sinoatrial node	452
+MA_0002282--coracobrachial	453
+MA_0002287--depressor labii inferioris	454
+MA_0002272--buccinator	455
+MA_0002297--flexor carpi radialis	456
+MA_0002298--flexor carpi ulnaris	457
+MA_0001923--bronchial artery	458
+MA_0000313--sacral vertebra	459
+MA_0001506--sacroiliac joint	460
+MA_0000246--saccule	461
+MA_0002222--subcostal vein	462
+MA_0002223--submental vein	463
+MA_0002229--suprarenal vein	464
+MA_0000251--semicircular duct	465
+MA_0002523--seminal fluid	466
+MA_0000439--segmental bronchus	467
+MA_0000249--semicircular canal	468
+MA_0002565--sebaceous gland	469
+MA_0002368--sartorius	470
+MA_0002503--cerebrospinal fluid	471
+MA_0000823--choroid plexus	472
+MA_0000311--cervical vertebra	473
+MA_0001329--clavicle	474
+MA_0001631--common bile duct	475
+MA_0000296--carpal bone	476
+MA_0001683--right kidney	477
+MA_0000736--cervical lymph node	478
+MA_0002506--cerumen	479
+MA_0001655--left kidney	480
+MA_0001991--lienal artery	481
+MA_0001054--spinal vestibular nucleus	482
+MA_0000029--abdomen	483
+MA_0002063--testicular artery	484
+MA_0002040--spermatic artery	485
+MA_0001983--internal spermatic artery	486
+MA_0000087--aortic valve	487
+MA_0000063--arteriole	488
+MA_0002396--transversus abdominis	489
+MA_0000025--forelimb	490
+MA_0000219--autonomic nervous system	491
+MA_0001920--basilar artery	492
+MA_0000262--eye anterior chamber	493
+MA_0000208--cerebral aqueduct	494
+MA_0000116--adrenal gland	495
+MA_0002092--cephalic vein	496
+MA_0000062--aorta	497
+MA_0002397--transversus thoracis	498
+MA_0002400--triceps surae	499
+MA_0001921--brachial artery	500
+MA_0002433--anatomic region	501
+MA_0000436--bronchus	502
+MA_0001180--brachial plexus	503
+MA_0000065--capillary	504
+MA_0000422--bronchiole	505
+MA_0001925--carotid artery	506
+MA_0002671--splenic cord	507
+MA_0000010--cardiovascular system	508
+MA_0001273--biliary tract	509
+MA_0002541--cementum	510
+MA_0000060--blood vessel	511
+MA_0000674--leg skin	512
+MA_0001149--submucous nerve plexus	513
+MA_0001148--myenteric nerve plexus	514
+MA_0002036--left renal artery	515
+MA_0002037--right renal artery	516
+MA_0001495--palatine bone	517
+MA_0001162--internal carotid nerve plexus	518
+MA_0001591--taste bud	519
+MA_0001957--common palmar digital arteries	520
+MA_0001306--macula	521
+MA_0001307--fovea	522
+MA_0000523--abdomen skin	523
+MA_0000638--wrist skin	524
+MA_0000630--hand skin	525
+MA_0000654--foot skin	526
+MA_0000641--ankle skin	527
+MA_0000590--neck skin	528
+MA_0000582--head skin	529
+MA_0000596--arm skin	530
+MA_0000610--elbow skin	531
+MA_0001415--rib head	532
+MA_0001417--rib tubercle	533
+MA_0000484--visceral serous pericardium	534
+MA_0001363--long bone metaphysis	535
+MA_0001141--inferior hypogastric nerve plexus	536
+MA_0002042--right spermatic artery	537
+MA_0002041--left spermatic artery	538
+MA_0002057--superior suprarenal artery	539
+MA_0002056--inferior suprarenal artery	540
+MA_0000181--ventral thalamus	541
+MA_0002058--sural artery	542
+MA_0002059--external sural artery	543
+MA_0002060--superficial sural artery	544
+MA_0000892--accumbens nucleus	545
+MA_0001491--maxilla	546
+MA_0001144--enteric ganglion	547
+MA_0002646--prostatic urethra	548
+MA_0002242--superficial temporal vein	549
+MA_0001035--cuneate nucleus	550
+MA_0000180--dorsal thalamus	551
+MA_0001461--cortical bone	552
+MA_0001396--costal arch	553
+MA_0001256--eyelid skin	554
+MA_0000942--auditory cortex	555
+MA_0000968--anterior olfactory nucleus	556
+MA_0000847--arcuate nucleus	557
+MA_0000247--utricle	558
+MA_0002528--endolymph	559
+MA_0002460--eye posterior chamber	560
+MA_0001265--palpebral conjunctiva	561
+MA_0000735--axillary lymph node	562
+MA_0000032--thoracic cavity	563
+MA_0002434--hematopoietic system	564
+MA_0001582--endocrine pancreas	565
+MA_0002543--enamel	566
+MA_0001664--urinary space	567
+MA_0000140--mucosa associated lymphoid tissue	568
+MA_0002702--eyelash	569
+MA_0002115--facial vein	570
+MA_0001950--facial artery	571
+MA_0001622--falciform ligament	572
+MA_0001715--zona pellucida	573
+MA_0001497--zygomatic bone	574
+MA_0001772--bronchiole epithelium	575
+MA_0001773--respiratory bronchiole epithelium	576
+MA_0000108--fibrocartilage	577
+MA_0000420--alveolus	578
+MA_0002478--major salivary gland	579
+MA_0002416--vertebral column	580
+MA_0002637--female urethra	581
+MA_0000245--vestibular labyrinth	582
+MA_0001243--corneal epithelium	583
+MA_0002407--nerve plexus	584
+MA_0001763--epiglottic cartilage	585
+MA_0000309--vertebra	586
+MA_0000136--gut associated lymphoid tissue	587
+MA_0001973--external iliac artery	588
+MA_0002461--vitreous chamber	589
+MA_0002156--external jugular vein	590
+MA_0000460--wrist joint	591
+MA_0001884--xiphoid cartilage	592
+MA_0001334--xiphisternum	593
+MA_0001135--white matter	594
+MA_0002144--external iliac vein	595
+MA_0001531--external anal sphincter	596
+MA_0002415--exocrine pancreas	597
+MA_0001929--external carotid artery	598
+MA_0002462--vitreous body	599
+MA_0002489--visceral pleura	600
+MA_0002411--exocrine system	601
+MA_0000740--lymph node cortex	602
+MA_0000739--lymph node capsule	603
+MA_0000746--lymph node trabeculum	604
+MA_0000174--mammillary body	605
+MA_0002640--male urethra	606
+MA_0001216--malleus	607
+MA_0000138--lymphatic vessel	608
+MA_0001201--macula of saccule	609
+MA_0001203--macula of utricle	610
+MA_0002603--macula densa	611
+MA_0001675--loop of henle	612
+MA_0002216--great saphenous vein	613
+MA_0000290--appendicular skeleton	614
+MA_0001249--meibomian gland	615
+MA_0001048--medial vestibular nucleus	616
+MA_0002447--body cavity	617
+MA_0000242--membranous labyrinth	618
+MA_0002647--membranous urethra	619
+MA_0002389--supraspinatus	620
+MA_0002228--supraorbital vein	621
+MA_0002544--synovial fluid	622
+MA_0000150--sweat gland	623
+MA_0000750--lymphatic vessel endothelium	624
+MA_0000377--renal tubule	625
+MA_0002266--abductor pollicis longus	626
+MA_0001254--orbicularis oculi	627
+MA_0002268--anterior abdominal wall muscle	628
+MA_0002417--pancreatic acinus	629
+MA_0001605--oropharynx epithelium	630
+MA_0001865--nasopharynx epithelium	631
+MA_0002571--descending aorta	632
+MA_0001457--vertebral body	633
+MA_0002453--coronary artery	634
+MA_0001343--hamate	635
+MA_0001394--middle phalanx of hand	636
+MA_0000771--thymus medulla	637
+MA_0001395--proximal phalanx of hand	638
+MA_0002286--deltoid	639
+MA_0002555--scaphoid	640
+MA_0000190--dentate gyrus	641
+MA_0000131--thyroid gland lobe	642
+MA_0001599--dental pulp	643
+MA_0001342--capitate	644
+MA_0001339--pisiform	645
+MA_0002542--dentin	646
+MA_0001764--thyroid cartilage	647
+MA_0001340--trapezium	648
+MA_0001341--trapezoid	649
+MA_0001905--jaw	650
+MA_0001908--upper jaw	651
+MA_0002454--left coronary artery	652
+MA_0001388--distal phalanx of hand	653
+MA_0002087--brachial vein	654
+MA_0001666--distal convoluted tubule	655
+MA_0002455--right coronary artery	656
+MA_0001221--tensor tympani	657
+MA_0001535--crypt of lieberkuhn	658
+MA_0000355--cystic duct	659
+MA_0001361--tibia	660
+MA_0000143--tonsil	661
+MA_0000090--tricuspid valve	662
+MA_0001358--ulna	663
+MA_0001056--crura cerebri	664
+MA_0002508--tear	665
+MA_0001762--cricoid cartilage	666
+MA_0001199--tectorial membrane	667
+MA_0002061--temporal artery	668
+MA_0002480--uvea	669
+MA_0000067--vein	670
+MA_0000413--vas deferens	671
+MA_0000481--superior vena cava	672
+MA_0000480--inferior vena cava	673
+MA_0000071--venule	674
+MA_0002077--vertebral artery	675
+MA_0002569--thoracic aorta	676
+MA_0001935--middle cerebral artery	677
+MA_0000767--thymus cortex	678
+MA_0002574--anterior tibial artery	679
+MA_0000182--third ventricle	680
+MA_0002575--posterior tibial artery	681
+MA_0001915--anterior cerebral artery	682
+MA_0000196--fourth ventricle	683
+MA_0001774--terminal bronchiole epithelium	684
+MA_0000326--reproductive system	685
+MA_0001722--decidua	686
+MA_0000055--pleural cavity	687
+MA_0000424--terminal bronchiole	688
+MA_0002022--posterior cerebral artery	689
+MA_0000192--lateral ventricle	690
+MA_0001050--nucleus ambiguus	691
+MA_0002034--radial artery	692
+MA_0002069--ulnar artery	693
+MA_0002289--erector spinae	694
+MA_0002292--extensor carpi ulnaris	695
+MA_0002291--extensor carpi radialis longus	696
+MA_0002295--extensor digitorum longus	697
+MA_0002290--extensor carpi radialis brevis	698
+MA_0002502--serum	699
+MA_0001286--vitreous humor	700
+MA_0000154--hair follicle	701
+MA_0001693--urinary bladder urothelium	702
+MA_0000374--kidney pelvis	703
+MA_0001654--renal pyramid	704
+MA_0002443--auditory system	705
+MA_0002444--visual system	706
+MA_0001115--dura mater	707
+MA_0000451--elbow joint	708
+MA_0000107--elastic cartilage	709
+MA_0001906--lower jaw	710
+MA_0002372--semispinalis capitis	711
+MA_0001945--dorsal nasal artery	712
+MA_0002007--middle colic artery	713
+MA_0002371--semimembranosus	714
+MA_0002370--scalenus medius	715
+MA_0002373--semispinalis cervicis	716
+MA_0000194--olfactory bulb	717
+MA_0001319--retina layer	718
+MA_0001685--right ureter	719
+MA_0001747--right testis	720
+MA_0000719--right adrenal gland	721
+MA_0001684--left ureter	722
+MA_0001746--left testis	723
+MA_0000718--left adrenal gland	724
+MA_0002017--perineal artery	725
+MA_0002038--retinal artery	726
+MA_0000716--venule endothelium	727
+MA_0001998--medial tarsal artery	728
+MA_0001997--medial plantar artery	729
+MA_0001992--lingual artery	730
+MA_0002344--mylohyoid	731
+MA_0001996--medial femoral circumflex artery	732
+MA_0002353--pectineus	733
+MA_0000945--cerebral white matter	734
+MA_0000811--brain nucleus	735
+MA_0002002--mental artery	736
+MA_0001999--median artery	737
+MA_0002348--omohyoid	738
+MA_0000031--chest	739
+MA_0001988--lacrimal artery	740
+MA_0002330--ischiocavernosus	741
+MA_0001984--internal thoracic artery	742
+MA_0001982--internal mammary artery	743
+MA_0002341--longus colli	744
+MA_0002340--longus capitis	745
+MA_0001989--lateral thoracic artery	746
+MA_0002301--flexor hallucis longus	747
+MA_0002300--flexor digitorum profundus	748
+MA_0001688--urethra gland	749
+MA_0002307--genioglossus	750
+MA_0000053--pericardial cavity	751
+MA_0002299--flexor digitorum longus	752
+MA_0002311--gracilis	753
+MA_0001979--inferior rectal artery	754
+MA_0002310--gluteus medius	755
+MA_0002308--geniohyoid	756
+MA_0000366--liver parenchyma	757
+MA_0000357--hepatic duct	758
+MA_0000367--liver sinusoid	759
+MA_0001484--hyoid bone	760
+MA_0002318--iliacus	761
+MA_0000109--hyaline cartilage	762
+MA_0000470--hip joint	763
+MA_0000042--metacarpus	764
+MA_0000037--hand	765
+MA_0000975--olfactory tract	766
+MA_0002178--inferior mesenteric vein	767
+MA_0002004--inferior mesenteric artery	768
+MA_0002320--iliocostalis thoracis	769
+MA_0001336--ilium	770
+MA_0001215--incus	771
+MA_0002323--infraspinatus	772
+MA_0002492--urinary bladder trigone	773
+MA_0000397--epididymis	774
+MA_0002697--parotid duct	775
+MA_0002488--parietal pleura	776
+MA_0000235--spinal nerve plexus	777
+MA_0000266--cornea	778
+MA_0000265--conjunctiva	779
+MA_0000263--choroid	780
+MA_0000276--retina	781
+MA_0001296--lacrimal gland	782
+MA_0000264--ciliary body	783
+MA_0002676--parathyroid gland capsule	784
+MA_0000183--telencephalon	785
+MA_0000133--cerebral hemisphere	786
+MA_0000941--temporal cortex	787
+MA_0000905--frontal cortex	788
+MA_0000913--occipital cortex	789
+MA_0000818--brain ventricle	790
+MA_0001113--meninges	791
+MA_0002482--orbit	792
+MA_0002529--perilymph	793
+MA_0001459--bone	794
+MA_0000788--areola	795
+MA_0002355--pectoralis minor	796
+MA_0002354--pectoralis major	797
+MA_0001374--patella	798
+MA_0000238--bony labyrinth	799
+MA_0001193--spiral organ	800
+MA_0000392--uterine cervix	801
+MA_0000390--endometrium	802
+MA_0000382--clitoris	803
+MA_0000775--palatine tonsil	804
+MA_0002726--glans penis	805
+MA_0001315--retina outer nuclear layer	806
+MA_0000407--prepuce	807
+MA_0002012--ovarian artery	808
+MA_0000164--myocardium	809
+MA_0000064--artery	810
+MA_0000330--anal canal	811
+MA_0000011--connective tissue	812
+MA_0000356--gall bladder	813
+MA_0000354--bile duct	814
+MA_0000333--large intestine	815
+MA_0002431--digestive system	816
+MA_0000323--gastrointestinal system	817
+MA_0001540--appendix	818
+MA_0000335--colon	819
+MA_0000334--cecum	820
+MA_0000337--small intestine	821
+MA_0001543--transverse colon	822
+MA_0000340--jejunum	823
+MA_0000339--ileum	824
+MA_0000352--esophagus	825
+MA_0000353--stomach	826
+MA_0000336--rectum	827
+MA_0000240--cochlea	828
+MA_0000236--ear	829
+MA_0000175--pineal gland	830
+MA_0001466--frontal bone	831
+MA_0000034--lower arm	832
+MA_0000044--foot	833
+MA_0002054--superior gluteal artery	834
+MA_0001112--grey matter	835
+MA_0000331--anus	836
+MA_0001961--gastric artery	837
+MA_0000342--gingiva	838
+MA_0001494--nasal bone	839
+MA_0002703--nail	840
+MA_0000343--lip	841
+MA_0002477--hard palate	842
+MA_0001006--cerebellum lobule IX	843
+MA_0002412--soft palate	844
+MA_0001588--sublingual gland	845
+MA_0001589--submandibular gland	846
+MA_0002476--palate	847
+MA_0001320--external naris	848
+MA_0001796--hypopharynx	849
+MA_0000587--neck muscle	850
+MA_0000285--nasal septum	851
+MA_0001299--nasolacrimal duct	852
+MA_0000565--mesothelium	853
+MA_0002617--mesangium	854
+MA_0002479--minor salivary gland	855
+MA_0001182--modiolus	856
+MA_0001487--mandible	857
+MA_0000360--liver lobe	858
+MA_0000258--outer ear	859
+MA_0001579--lip skin	860
+MA_0000517--trunk skin	861
+MA_0000110--intervertebral disc	862
+MA_0000796--nipple	863
+MA_0000286--nasal turbinate	864
+MA_0001883--nasal cartilage	865
+MA_0001267--upper eyelid	866
+MA_0001263--lower eyelid	867
+MA_0002559--stomach body	868
+MA_0001612--stomach fundus	869
+MA_0002009--occipital artery	870
+MA_0002008--obturator artery	871
+MA_0002560--stomach pyloric region	872
+MA_0000338--duodenum	873
+MA_0001541--ascending colon	874
+MA_0000122--pancreas head	875
+MA_0001542--descending colon	876
+MA_0001624--stomach pyloric antrum	877
+MA_0000121--pancreas body	878
+MA_0000124--pancreatic duct	879
+MA_0000123--pancreas tail	880
+MA_0000253--middle ear	881
+MA_0001794--maxillary sinus	882
+MA_0001793--frontal sinus	883
+MA_0000438--main bronchus	884
+MA_0001304--lens fiber	885
+MA_0000728--thyroid gland left lobe	886
+MA_0000361--liver left lobe	887
+MA_0002662--intrahepatic bile duct epithelium	888
+MA_0002661--extrahepatic bile duct epithelium	889
+MA_0001629--bile duct epithelium	890
+MA_0000324--hepatobiliary system	891
+MA_0002496--liver acinus	892
+MA_0002524--bulbourethral gland secretion	893
+MA_0002514--esophagus secretion	894
+MA_0002525--prostate gland secretion	895
+MA_0002464--labium	896
+MA_0002401--urethralis	897
+MA_0002267--adductor group (leg)	898
+MA_0002312--hamstring muscle	899
+MA_0002114--epigastric vein	900
+MA_0002101--digital vein	901
+MA_0002147--inferior palpebral vein	902
+MA_0002553--psoas muscle	903
+MA_0002185--ophthalmic plexus	904
+MA_0002177--mesenteric vein	905
+MA_0002380--sphincter colli superficialis	906
+MA_0002378--serratus ventralis	907
+MA_0002066--thyroid artery	908
+MA_0002376--serratus dorsalis caudalis	909
+MA_0002377--serratus dorsalis cranialis	910
+MA_0001133--spinal cord pia mater	911
+MA_0000488--heart apex	912
+MA_0002213--retinal vein	913
+MA_0002194--phrenic vein	914
+MA_0000729--thyroid gland right lobe	915
+MA_0002190--pancreatico-duodenal vein	916
+MA_0002385--sternooccipital	917
+MA_0002391--tensor fasciae lata	918
+MA_0002394--tibialis caudalis	919
+MA_0000363--liver right lobe	920
+MA_0002425--tibialis muscle	921
+MA_0001323--internal naris	922
+MA_0002148--internal mammary vein	923
+MA_0000900--cortical layer IV	924
+MA_0002584--interlobular artery	925
+MA_0001981--intercostal artery	926
+MA_0000304--phalanx	927
+MA_0000744--lymph node secondary follicle	928
+MA_0000381--female reproductive system	929
+MA_0000006--head/neck	930
+MA_0000169--brainstem	931
+MA_0000760--spleen trabecular vein	932
+MA_0000754--spleen marginal sinus	933
+MA_0000759--spleen trabecular artery	934
+MA_0000755--spleen marginal zone	935
+MA_0000764--spleen germinal center	936
+MA_0001132--spinal cord dura mater	937
+MA_0001603--upper jaw molar	938
+MA_0001601--upper jaw incisor	939
+MA_0001909--upper jaw tooth	940
+MA_0000879--third ventricle choroid plexus	941
+MA_0000707--artery endothelium	942
+MA_0000701--aorta endothelium	943
+MA_0001387--proximal phalanx of foot	944
+MA_0001380--distal phalanx of foot	945
+MA_0001371--metatarsal bone digit 3	946
+MA_0001373--metatarsal bone digit 5	947
+MA_0001372--metatarsal bone digit 4	948
+MA_0001368--metacarpal bone digit 5	949
+MA_0001367--metacarpal bone digit 4	950
+MA_0001370--metatarsal bone digit 2	951
+MA_0001369--metatarsal bone digit 1	952
+MA_0001364--metacarpal bone digit 1	953
+MA_0001366--metacarpal bone digit 3	954
+MA_0001365--metacarpal bone digit 2	955
+MA_0001410--rib 10	956
+MA_0001405--rib 5	957
+MA_0001404--rib 4	958
+MA_0001407--rib 7	959
+MA_0001406--rib 6	960
+MA_0001412--rib 12	961
+MA_0001411--rib 11	962
+MA_0001403--rib 3	963
+MA_0001402--rib 2	964
+MA_0001401--rib 1	965
+MA_0001392--hand digit 4 phalanx	966
+MA_0001391--hand digit 3 phalanx	967
+MA_0001393--hand digit 5 phalanx	968
+MA_0000997--cerebellum purkinje cell layer	969
+MA_0001381--foot digit 1 phalanx	970
+MA_0001382--foot digit 2 phalanx	971
+MA_0001390--hand digit 2 phalanx	972
+MA_0001389--hand digit 1 phalanx	973
+MA_0001384--foot digit 4 phalanx	974
+MA_0001385--foot digit 5 phalanx	975
+MA_0001383--foot digit 3 phalanx	976
+MA_0000396--male reproductive system	977
+MA_0001971--iliac artery	978
+MA_0002142--iliac vein	979
+MA_0002154--jugular vein	980
+MA_0002226--superior intercostal vein	981
+MA_0001512--sternocostal joint	982
+MA_0001594--circumvallate papilla	983
+MA_0000961--lateral ventricle choroid plexus	984
+MA_0000983--fourth ventricle choroid plexus	985
+MA_0002459--eye chamber	986
+MA_0001483--ethmoid bone	987
+MA_0001650--cortical arch	988
+MA_0001724--cervix epithelium	989
+MA_0002430--cerebellum white matter	990
+MA_0001837--bronchus submucosa	991
+MA_0001836--bronchus lamina propria	992
+MA_0001831--bronchus connective tissue	993
+MA_0001975--iliac circumflex artery	994
+MA_0001948--epigastric artery	995
+MA_0001835--bronchus cartilage	996
+MA_0001832--bronchus basement membrane	997
+MA_0001833--bronchus basal lamina	998
+MA_0002534--lung surfactant	999
+MA_0002536--sputum	1000
+MA_0001913--alveolar artery	1001
+MA_0001918--auricular artery	1002
+MA_0000986--fourth ventricle ependyma	1003
+MA_0000466--foot digit 2	1004
+MA_0000467--foot digit 3	1005
+MA_0000984--fourth ventricle choroid plexus epithelium	1006
+MA_0001914--suprarenal artery	1007
+MA_0001933--cerebellar artery	1008
+MA_0000468--foot digit 4	1009
+MA_0000469--foot digit 5	1010
+MA_0001962--gastroepiploic artery	1011
+MA_0001252--eyelid subcutaneous connective tissue	1012
+MA_0001938--communicating artery	1013
+MA_0001936--cervical artery	1014
+MA_0001949--ethmoidal artery	1015
+MA_0001960--frontal artery	1016
+MA_0001725--cervix squamous epithelium	1017
+MA_0001165--thoracic sympathetic nerve trunk	1018
+MA_0001163--lumbar sympathetic nerve trunk	1019
+MA_0000457--hand digit 4	1020
+MA_0000458--hand digit 5	1021
+MA_0000455--hand digit 2	1022
+MA_0000456--hand digit 3	1023
+MA_0000465--foot digit 1	1024
+MA_0000454--hand digit 1	1025
+MA_0001140--hypogastric nerve plexus	1026
+MA_0000269--eyelid muscle	1027
+MA_0001274--orbitalis muscle	1028
+MA_0001169--peroneal nerve	1029
+MA_0002116--anterior facial vein	1030
+MA_0002119--medial femoral vein	1031
+MA_0002191--inferior pancreatico-duodenal vein	1032
+MA_0000049--metatarsus	1033
+MA_0000643--foot bone	1034
+MA_0002568--alveolar wall	1035
+MA_0002313--hand interosseous muscle	1036
+MA_0000159--hair shaft	1037
+MA_0002235--thoracic vein	1038
+MA_0000135--bronchus associated lymphoid tissue	1039
+MA_0002215--saphenous vein	1040
+MA_0002562--cerebral artery	1041
+MA_0002043--spinal artery	1042
+MA_0002669--intralobular bile duct	1043
+MA_0001348--calcaneum	1044
+MA_0002404--zygomaticus	1045
+MA_0002484--eye anterior segment	1046
+MA_0002015--superior pancreatico-duodenal artery	1047
+MA_0001409--rib 9	1048
+MA_0001408--rib 8	1049
+MA_0001416--rib shaft	1050
+MA_0000929--oval nucleus	1051
+MA_0001738--prostate gland lobe	1052
+MA_0000626--hand digit skin	1053
+MA_0001258--medial palpebral ligament	1054
+MA_0001362--long bone epiphysis	1055
+MA_0000772--hassall's corpuscle	1056
+MA_0001332--sternal manubrium	1057
+MA_0001190--basilar membrane	1058
+MA_0002328--intrinsic tongue muscle transverse component	1059
+MA_0002315--palmar hand interosseus muscle	1060
+MA_0002329--intrinsic tongue muscle vertical component	1061
+MA_0002304--plantar foot interosseus muscle	1062
+MA_0000650--foot digit skin	1063
+MA_0000904--cingulate cortex	1064
+MA_0001726--uterine gland	1065
+MA_0002485--eye posterior segment	1066
+MA_0000369--kidney calyx	1067
+MA_0002720--venous system	1068
+MA_0001134--spinal cord ventral horn	1069
+MA_0001658--glomerular capillary endothelium	1070
+MA_0002718--vascular system	1071
+MA_0000898--cortical layer II	1072
+MA_0000910--spinal cord white matter	1073
+MA_0002207--left pulmonary vein	1074
+MA_0002208--right pulmonary vein	1075
+MA_0001791--right lung lobe	1076
+MA_0000421--interalveolar septum	1077
+MA_0002175--median vein	1078
+MA_0001200--vestibular membrane	1079
+MA_0001899--gastrointestinal system lamina propria	1080
+MA_0001745--seminal vesicle epithelium	1081
+MA_0001789--right lung terminal bronchiole	1082
+MA_0001788--right lung respiratory bronchiole	1083
+MA_0001819--lower respiratory tract cartilage	1084
+MA_0001780--left lung terminal bronchiole	1085
+MA_0001779--left lung respiratory bronchiole	1086
+MA_0001778--left lung bronchiole	1087
+MA_0001777--left lung alveolus	1088
+MA_0001776--left lung alveolar duct	1089
+MA_0000964--lateral ventricle ependyma	1090
+MA_0000962--lateral ventricle choroid plexus epithelium	1091
+MA_0001787--right lung bronchiole	1092
+MA_0001786--right lung alveolus	1093
+MA_0001785--right lung alveolar duct	1094
+MA_0001681--renal tubule epithelium	1095
+MA_0001680--renal tubule basement membrane	1096
+MA_0001753--prepuce epithelium	1097
+MA_0002273--bulboglandular	1098
+MA_0002274--cleidobrachial	1099
+MA_0001743--penis erectile tissue	1100
+MA_0002276--cleidooccipital	1101
+MA_0002275--cleidocephalic	1102
+MA_0001326--nasal cavity respiratory epithelium	1103
+MA_0001324--nasal cavity epithelium	1104
+MA_0002281--constrictor vulvae	1105
+MA_0002243--tibial vein	1106
+MA_0000726--thyroid gland follicle	1107
+MA_0002675--thyroid gland capsule	1108
+MA_0000370--kidney capsule	1109
+MA_0001119--spinal cord dorsal horn	1110
+MA_0000070--venous sinus	1111
+MA_0000068--vena cava	1112
+MA_0002067--tibial artery	1113
+MA_0002285--cutaneous trunci	1114
+MA_0002293--extensor digitorum communis	1115
+MA_0002294--extensor digitorum lateralis	1116
+MA_0000816--brain pia mater	1117
+MA_0000820--brain white matter	1118
+MA_0000810--brain grey matter	1119
+MA_0000944--cerebral grey matter	1120
+MA_0000815--brain dura mater	1121
+MA_0002369--scalenus dorsalis	1122
+MA_0000703--arterial system endothelium	1123
+MA_0000714--venous system endothelium	1124
+MA_0002013--pancreatico-duodenal artery	1125
+MA_0000713--vena cava endothelium	1126
+MA_0002349--omotransverse	1127
+MA_0002352--parotidoauricular	1128
+MA_0002003--mesenteric artery	1129
+MA_0001944--dorsal metacarpal artery	1130
+MA_0001987--labial artery	1131
+MA_0001977--infraorbital artery	1132
+MA_0002322--iliothoracic	1133
+MA_0002334--levator nasolabialis	1134
+MA_0002338--longissimus lumborum	1135
+MA_0002501--plasma	1136
+MA_0000712--vein endothelium	1137
+MA_0001749--vas deferens epithelium	1138
+MA_0001687--urethra urothelium	1139
+MA_0001686--urethra epithelium	1140
+MA_0001224--tympanic epithelium	1141
+MA_0001860--trachea submucosa	1142
+MA_0001858--trachea lamina propria	1143
+MA_0001857--trachea cartilage	1144
+MA_0001855--trachea basal lamina	1145
+MA_0001854--trachea basement membrane	1146
+MA_0001592--tongue epithelium	1147
+MA_0000998--cerebellum lobule I	1148
+MA_0000571--head/neck muscle	1149
+MA_0002413--olfactory lobe	1150
+MA_0000193--olfactory cortex	1151
+MA_0000349--incisor	1152
+MA_0002014--inferior pancreatico-duodenal artery	1153
+MA_0000734--peyer's patch germinal center	1154
+MA_0001593--tongue papilla	1155
+MA_0000145--mammary gland	1156
+MA_0002423--pectoralis muscle	1157
+MA_0002527--otolymph	1158
+MA_0002518--exocrine pancreas secretion	1159
+MA_0002517--endocrine pancreas secretion	1160
+MA_0000104--cartilage	1161
+MA_0002679--foliate papilla	1162
+MA_0002678--filiform papilla	1163
+MA_0000083--heart septum	1164
+MA_0001251--eyelid connective tissue	1165
+MA_0001233--ear skin	1166
+MA_0000002--spinal cord grey matter	1167
+MA_0000901--cortical layer V	1168
+MA_0001595--fungiform papilla	1169
+MA_0002587--glomerular capillary	1170
+MA_0002128--gastric vein	1171
+MA_0000824--choroid plexus epithelium	1172
+MA_0001508--joint of rib	1173
+MA_0001262--inner canthus	1174
+MA_0001264--outer canthus	1175
+MA_0000752--oropharyngeal lymphoid tissue	1176
+MA_0001602--lower jaw molar	1177
+MA_0001600--lower jaw incisor	1178
+MA_0001907--lower jaw tooth	1179
+MA_0002432--oculomotor muscle	1180
+MA_0001052--solitary tract nucleus	1181
+MA_0001792--ethmoid sinus	1182
+MA_0001795--sphenoid sinus	1183
+MA_0000430--right lung middle lobe	1184
+MA_0002463--carotid body	1185
+MA_0000289--vomeronasal organ	1186
+MA_0001137--organ of zuckerkandl	1187
+MA_0002468--ear lobe	1188
+MA_0000287--olfactory gland	1189
+MA_0001139--celiac nerve plexus	1190
+MA_0001136--ciliary ganglion	1191
+MA_0001142--superior hypogastric nerve plexus	1192
+MA_0001143--pulmonary nerve plexus	1193
+MA_0001153--cervical ganglion	1194
+MA_0001154--inferior cervical ganglion	1195
+MA_0002481--fat pad	1196
+MA_0001155--middle cervical ganglion	1197
+MA_0001156--superior cervical ganglion	1198
+MA_0001157--cervicothoracic ganglion	1199
+MA_0002493--urinary bladder wall	1200
+MA_0002011--ophthalmic artery	1201
+MA_0001175--axillary nerve trunk	1202
+MA_0001186--vestibular aqueduct	1203
+MA_0001187--endolymphatic duct	1204
+MA_0001188--endolymphatic sac	1205
+MA_0001195--spiral sulcus	1206
+MA_0001194--reticular lamina	1207
+MA_0002062--superficial temporal artery	1208
+MA_0002072--umbilical artery	1209
+MA_0002097--inferior cerebral vein	1210
+MA_0002094--inferior cerebellar vein	1211
+MA_0002095--superior cerebellar vein	1212
+MA_0000628--hand muscle	1213
+MA_0000635--shoulder skin	1214
+MA_0001966--common plantar digital arteries	1215
+MA_0000633--shoulder muscle	1216
+MA_0001970--ileocolic artery	1217
+MA_0000658--hip skin	1218
+MA_0000652--foot muscle	1219
+MA_0001500--syndesmosis	1220
+MA_0001501--synchondrosis	1221
+MA_0001502--cranial synchondrosis	1222
+MA_0000668--knee skin	1223
+MA_0001511--interchondral joint	1224
+MA_0001514--joint of vertebral body	1225
+MA_0001526--foregut	1226
+MA_0001527--hindgut	1227
+MA_0000672--leg muscle	1228
+MA_0000694--limb skin	1229
+MA_0002408--nerve trunk	1230
+MA_0000222--enteric nervous system	1231
+MA_0002403--vastus medialis	1232
+MA_0000221--autonomic nerve plexus	1233
+MA_0001558--small intestine serosa	1234
+MA_0001554--small intestine lamina propria	1235
+MA_0002414--cumulus oophorus	1236
+MA_0001564--midgut	1237
+MA_0001571--esophagus serosa	1238
+MA_0002429--dentate gyrus layer	1239
+MA_0000244--ductus reuniens	1240
+MA_0002427--hippocampus layer	1241
+MA_0000248--perilymphatic channel	1242
+MA_0001586--salivary duct	1243
+MA_0002441--cardiac muscle tissue	1244
+MA_0002446--gustatory system	1245
+MA_0002442--sensory organ system	1246
+MA_0001114--arachnoid mater	1247
+MA_0001598--dental papilla	1248
+MA_0002445--olfactory system	1249
+MA_0001121--spinal cord dorsal nucleus	1250
+MA_0002458--scala media	1251
+MA_0002583--arcuate artery	1252
+MA_0001259--orbital septum	1253
+MA_0002111--ductus venosus	1254
+MA_0001266--palpebral fissure	1255
+MA_0002121--common palmar digital vein	1256
+MA_0001287--iris muscle	1257
+MA_0001288--dilatator pupillae	1258
+MA_0001289--sphincter pupillae	1259
+MA_0001295--lacrimal duct	1260
+MA_0001293--pupillary membrane	1261
+MA_0002153--jejunal vein	1262
+MA_0002160--lateral marginal vein	1263
+MA_0002162--lateral thoracic vein	1264
+MA_0002176--median cubital vein	1265
+MA_0002171--medial marginal vein	1266
+MA_0002181--middle colic vein	1267
+MA_0002193--perineal vein	1268
+MA_0002195--inferior phrenic vein	1269
+MA_0000836--perifornical nucleus	1270
+MA_0000835--lateral preoptic area	1271
+MA_0000834--lateral hypothalamic area	1272
+MA_0000838--dorsomedial hypothalamic nucleus	1273
+MA_0000832--medial habenular nucleus	1274
+MA_0000831--lateral habenular nucleus	1275
+MA_0000830--habenula	1276
+MA_0000725--foramen caecum	1277
+MA_0000730--thyroid gland parenchyma	1278
+MA_0000745--lymph node medulla	1279
+MA_0001610--stomach epithelium	1280
+MA_0000766--thymus capsule	1281
+MA_0000765--spleen periarteriolar lymphatic sheath	1282
+MA_0001626--stomach serosa	1283
+MA_0000770--thymus lobule	1284
+MA_0001632--gall bladder epithelium	1285
+MA_0000318--viscerocranium	1286
+MA_0000317--chondrocranium	1287
+MA_0001649--outer renal cortex	1288
+MA_0001644--major calyx	1289
+MA_0001645--minor calyx	1290
+MA_0000321--fibrous joint	1291
+MA_0000320--cartilaginous joint	1292
+MA_0001652--inner renal medulla	1293
+MA_0001653--outer renal medulla	1294
+MA_0001669--proximal convoluted tubule	1295
+MA_0002519--stomach secretion	1296
+MA_0000332--ileocaecal junction	1297
+MA_0001208--lateral semicircular canal	1298
+MA_0001205--scala tympani	1299
+MA_0001206--scala vestibuli	1300
+MA_0002530--pericardial fluid	1301
+MA_0002531--peritoneal fluid	1302
+MA_0002532--pleural fluid	1303
+MA_0002540--tooth substance	1304
+MA_0001214--posterior semicircular duct	1305
+MA_0001211--anterior semicircular duct	1306
+MA_0001696--urinary bladder serosa	1307
+MA_0001213--lateral semicircular duct	1308
+MA_0001229--auricular muscle	1309
+MA_0001225--tympanic ring	1310
+MA_0002557--proximal carpal bone	1311
+MA_0001227--auricular cartilage	1312
+MA_0002558--distal carpal bone	1313
+MA_0002554--popliteus	1314
+MA_0001230--extrinsic auricular muscle	1315
+MA_0001231--intrinsic auricular muscle	1316
+MA_0000386--placenta	1317
+MA_0002572--descending thoracic aorta	1318
+MA_0000393--uterine horn	1319
+MA_0000043--ankle	1320
+MA_0000040--carpus	1321
+MA_0000046--knee	1322
+MA_0002224--subscapular vein	1323
+MA_0000050--tarsus	1324
+MA_0002231--sural vein	1325
+MA_0002238--thoracodorsal vein	1326
+MA_0002241--middle temporal vein	1327
+MA_0000069--venous plexus	1328
+MA_0002249--umbilical vein	1329
+MA_0001398--false rib	1330
+MA_0001399--floating rib	1331
+MA_0002247--transverse facial vein	1332
+MA_0002251--vaginal vein	1333
+MA_0000078--endocardial cushion	1334
+MA_0002264--inferior vesical vein	1335
+MA_0002269--biceps brachii	1336
+MA_0002277--coccygeus	1337
+MA_0002278--constrictor muscle of pharynx	1338
+MA_0002288--digastric	1339
+MA_0000907--primary motor cortex	1340
+MA_0000917--gut	1341
+MA_0000914--primary visual cortex	1342
+MA_0000919--upper lip	1343
+MA_0000924--septal cortex	1344
+MA_0000923--presubiculum	1345
+MA_0000921--lower lip	1346
+MA_0000925--bed nucleus of stria terminalis	1347
+MA_0000935--medial septal nucleus	1348
+MA_0000938--septofimbrial nucleus	1349
+MA_0000936--nucleus of diagonal band	1350
+MA_0000947--dentate gyrus hilus	1351
+MA_0000940--subfornical organ	1352
+MA_0000845--ventromedial hypothalamic nucleus	1353
+MA_0000849--supraoptic nucleus	1354
+MA_0000848--paraventricular hypothalamic nucleus	1355
+MA_0000843--suprachiasmatic nucleus	1356
+MA_0000841--retrochiasmatic area	1357
+MA_0000840--medial preoptic nucleus	1358
+MA_0000859--median eminence	1359
+MA_0000850--lateral mammillary nucleus	1360
+MA_0001701--urachus	1361
+MA_0000853--tuberomammillary nucleus	1362
+MA_0000852--supramammillary nucleus	1363
+MA_0000851--medial mammillary nucleus	1364
+MA_0000869--lateral geniculate nucleus	1365
+MA_0000866--paraventricular thalamic nucleus	1366
+MA_0000865--nucleus reuniens	1367
+MA_0000878--zona incerta	1368
+MA_0000872--central medial nucleus	1369
+MA_0000870--medial geniculate nucleus	1370
+MA_0000876--reticular thalamic nucleus	1371
+MA_0000875--peripeduncular nucleus	1372
+MA_0000874--parafascicular nucleus	1373
+MA_0000873--paracentral nucleus	1374
+MA_0000419--alveolar atrium	1375
+MA_0002606--glomerular mesangium	1376
+MA_0002602--extraglomerular mesangium	1377
+MA_0002614--proximal straight tubule	1378
+MA_0000435--lower respiratory tract	1379
+MA_0000442--upper respiratory tract	1380
+MA_0000440--terminal bronchus	1381
+MA_0000445--omental bursa	1382
+MA_0002635--renal nerve	1383
+MA_0002636--lower urinary tract	1384
+MA_0001301--lens epithelium	1385
+MA_0000462--radio-ulnar joint	1386
+MA_0002643--penile urethra	1387
+MA_0000475--arch of aorta	1388
+MA_0000483--parietal serous pericardium	1389
+MA_0001338--pubis	1390
+MA_0001333--sternebra	1391
+MA_0000498--back skin	1392
+MA_0002677--parathyroid gland parenchyma	1393
+MA_0000013--hemolymphoid system	1394
+MA_0000496--back muscle	1395
+MA_0001349--navicular	1396
+MA_0001352--medial cuneiform	1397
+MA_0001353--intermediate cuneiform	1398
+MA_0001354--lateral cuneiform	1399
+MA_0002691--esophagus wall	1400
+MA_0002692--stomach wall	1401
+MA_0000036--elbow	1402
+MA_0002699--sublingual duct	1403
+MA_0000039--wrist	1404
+MA_0001493--premaxilla	1405
+MA_0001016--laterodorsal tegmental nucleus	1406
+MA_0002347--obturator externus	1407
+MA_0001017--locus coeruleus	1408
+MA_0002343--masseter	1409
+MA_0001013--dorsal tegmental nucleus	1410
+MA_0001499--gomphosis	1411
+MA_0001020--peduncular pontine nucleus	1412
+MA_0001022--pontine raphe nucleus	1413
+MA_0001027--superior salivatory nucleus	1414
+MA_0001023--prepositus hypoglossal nucleus	1415
+MA_0001024--raphe magnus nucleus	1416
+MA_0001025--reticular tegmental nucleus	1417
+MA_0001026--superior olivary nucleus	1418
+MA_0001031--ventral tegmental nucleus	1419
+MA_0002363--quadriceps	1420
+MA_0000186--neocortex layer	1421
+MA_0001038--gracile nucleus	1422
+MA_0000189--hippocampal formation	1423
+MA_0001034--area postrema	1424
+MA_0001037--gigantocellular reticular nucleus	1425
+MA_0000197--metencephalon	1426
+MA_0000195--hindbrain	1427
+MA_0001040--inferior olive	1428
+MA_0001045--inferior olive medial nucleus	1429
+MA_0001046--inferior olive principal nucleus	1430
+MA_0001047--lateral reticular nucleus	1431
+MA_0001053--trigeminal V spinal sensory nucleus	1432
+MA_0001055--anterior tegmental nucleus	1433
+MA_0001051--raphe pallidus nucleus	1434
+MA_0001063--red nucleus	1435
+MA_0001064--substantia nigra pars compacta	1436
+MA_0002395--tibilais cranialis	1437
+MA_0001066--substantia nigra pars reticulata	1438
+MA_0001062--pretectal region	1439
+MA_0002398--trapezius	1440
+MA_0002399--triceps brachii	1441
+MA_0001069--interpeduncular nucleus	1442
+MA_0001074--parabigeminal nucleus	1443
+MA_0001072--nucleus of darkschewitsch	1444
+MA_0001919--maxillary artery	1445
+MA_0000977--islands of Calleja	1446
+MA_0000999--cerebellum lobule II	1447
+MA_0000514--trunk muscle	1448
+MA_0002707--nail matrix	1449
+MA_0002705--hyponychium	1450
+MA_0000537--pelvic girdle muscle	1451
+MA_0001868--transverse sinus	1452
+MA_0001866--pampiniform plexus	1453
+MA_0000535--gluteal muscle	1454
+MA_0000548--chest muscle	1455
+MA_0002721--intercerebral commissure	1456
+MA_0002723--hippocampal commissure	1457
+MA_0002724--esophagus submucosa	1458
+MA_0001873--foramen ovale	1459
+MA_0001880--transverse pericardial sinus	1460
+MA_0002738--fibrous pericardium	1461
+MA_0002739--serous pericardium	1462
+MA_0000553--chest skin	1463
+MA_0002747--fornix	1464
+MA_0001419--true rib	1465
+MA_0002744--inferior cerebellar peduncle	1466
+MA_0002745--middle cerebellar peduncle	1467
+MA_0002746--superior cerebellar peduncle	1468
+MA_0002755--lateral cervical nucleus	1469
+MA_0000578--head muscle	1470
+MA_0000103--truncus arteriosus	1471
+MA_0000112--nucleus pulposus	1472
+MA_0000594--arm muscle	1473
+MA_0001458--vertebral pedicle	1474
+MA_0002306--gastrocnemius	1475
+MA_0001454--vertebra neural canal	1476
+MA_0000130--thyroglossal duct	1477
+MA_0002319--iliocostalis	1478
+MA_0001467--interparietal bone	1479
+MA_0002321--iliopsoas	1480
+MA_0001475--suture	1481
+MA_0001000--cerebellum lobule III	1482
+MA_0001009--medial cerebellar nucleus	1483
+MA_0000157--hair cuticle	1484
+MA_0000156--hair cortex	1485
+MA_0001008--lateral cerebellar nucleus	1486
+MA_0001485--incisive bone	1487
+MA_0001130--spinal cord meninges	1488
+MA_0001131--spinal cord arachnoid mater	1489
+MA_0000283--nasal capsule	1490
+MA_0000282--naris	1491
+MA_0000288--olfactory receptor nerve	1492
+MA_0000292--pectoral girdle bone	1493
+MA_0002471--retina photoreceptor layer inner segment	1494
+MA_0000291--girdle bone	1495
+MA_0002472--retina photoreceptor layer outer segment	1496
+MA_0000295--carpal/tarsal bone	1497
+MA_0000293--pelvic girdle bone	1498
+MA_0000299--forelimb long bone	1499
+MA_0000298--limb long bone	1500
+MA_0001145--enteric nerve	1501
+MA_0001146--cholinergic enteric nerve	1502
+MA_0001147--intrinsic nerve plexus	1503
+MA_0001151--left vagus X nerve trunk	1504
+MA_0001152--right vagus X nerve trunk	1505
+MA_0002483--heart blood vessel	1506
+MA_0002000--median artery palmar branch	1507
+MA_0002001--meningeal artery	1508
+MA_0001150--vagus X nerve trunk	1509
+MA_0002006--middle caudal artery	1510
+MA_0002486--eye surface	1511
+MA_0002487--spleen pulp	1512
+MA_0002010--ocular angle artery	1513
+MA_0002494--liver lobule	1514
+MA_0001164--pelvic sympathetic nerve trunk	1515
+MA_0002490--urinary bladder muscularis mucosa	1516
+MA_0001160--sympathetic nerve plexus	1517
+MA_0001161--peripheral nervous system ganglion	1518
+MA_0002497--liver perisinusoidal space	1519
+MA_0002016--pericardiacoophrenic artery	1520
+MA_0002020--pial artery	1521
+MA_0001176--intercostal nerve trunk	1522
+MA_0002028--pudendal artery	1523
+MA_0002029--superior external pudendal artery	1524
+MA_0001177--phrenic nerve trunk	1525
+MA_0002024--principal artery to forelimb	1526
+MA_0001178--sciatic nerve trunk	1527
+MA_0002025--principal artery to hindlimb	1528
+MA_0001179--segmental spinal nerve trunk	1529
+MA_0001184--osseus spiral lamina	1530
+MA_0001185--osseus labyrinth vestibule	1531
+MA_0001183--osseus cochlear canal	1532
+MA_0002030--pudic-epigastric trunk	1533
+MA_0002039--saphenous artery	1534
+MA_0001189--inner ear epithelium	1535
+MA_0001196--external spiral sulcus	1536
+MA_0001197--internal spiral sulcus	1537
+MA_0002044--stapedial artery	1538
+MA_0001198--stria vascularis	1539
+MA_0001191--limbus lamina spiralis	1540
+MA_0001192--spiral ligament	1541
+MA_0002053--superficial radial artery	1542
+MA_0002051--superficial antebrachial artery	1543
+MA_0002075--ventral intercostal artery	1544
+MA_0002076--ventral nasal artery	1545
+MA_0002078--vesical artery	1546
+MA_0002071--ulnar collateral artery	1547
+MA_0002073--upper intercostal artery	1548
+MA_0002074--ureteric artery	1549
+MA_0002070--ulnar artery palmar branch	1550
+MA_0002089--buccal vein	1551
+MA_0002082--anastomotic vein	1552
+MA_0002081--adrenal vein	1553
+MA_0002099--deep iliac circumflex vein	1554
+MA_0002090--caudal auricular vein	1555
+MA_0002091--caudal humeral circumflex vein	1556
+MA_0000704--arterial system smooth muscle	1557
+MA_0000702--aorta smooth muscle	1558
+MA_0000708--artery smooth muscle	1559
+MA_0000706--arteriole smooth muscle	1560
+MA_0000700--tail skin	1561
+MA_0000709--blood vessel endothelium	1562
+MA_0000715--venous system smooth muscle	1563
+MA_0000717--cardiovascular system endothelium	1564
+MA_0000710--blood vessel smooth muscle	1565
+MA_0000605--upper arm connective tissue	1566
+MA_0001937--cervical trunk	1567
+MA_0000604--upper arm bone	1568
+MA_0000603--upper arm blood vessel	1569
+MA_0001939--costo-cervical trunk	1570
+MA_0000602--lower arm skin	1571
+MA_0000609--elbow connective tissue	1572
+MA_0000608--upper arm skin	1573
+MA_0000607--upper arm nerve	1574
+MA_0000606--upper arm muscle	1575
+MA_0000601--lower arm nerve	1576
+MA_0000600--lower arm muscle	1577
+MA_0000616--forelimb nerve	1578
+MA_0000615--forelimb muscle	1579
+MA_0000614--forelimb joint	1580
+MA_0000613--forelimb connective tissue	1581
+MA_0000619--hand bone	1582
+MA_0000618--hand blood vessel	1583
+MA_0001946--dorsal penis artery	1584
+MA_0000617--forelimb skin	1585
+MA_0001947--ductus arteriosis	1586
+MA_0001940--deferent duct artery	1587
+MA_0001941--digital artery	1588
+MA_0001943--dorsal intercostal artery	1589
+MA_0000612--forelimb bone	1590
+MA_0000611--forelimb blood vessel	1591
+MA_0000627--hand interdigit region	1592
+MA_0001959--proper palmal digital arteries	1593
+MA_0000625--hand digit nerve	1594
+MA_0000624--hand digit muscle	1595
+MA_0001955--median dorsal digital artery for digit 01	1596
+MA_0001956--lateral dorsal digital artery for digit 05	1597
+MA_0000629--hand nerve	1598
+MA_0001958--forelimb proper dorsal digital arteries	1599
+MA_0001952--medial femoral artery	1600
+MA_0001953--forelimb digital arteries	1601
+MA_0001954--forelimb common dorsal digital arteries	1602
+MA_0000623--hand digit connective tissue	1603
+MA_0000622--hand digit bone	1604
+MA_0000621--hand digit blood vessel	1605
+MA_0000620--hand connective tissue	1606
+MA_0000637--wrist nerve	1607
+MA_0000636--wrist connective tissue	1608
+MA_0001967--hindlimb proper dorsal digital arteries	1609
+MA_0001968--proper plantar digital arteries	1610
+MA_0000639--ankle connective tissue	1611
+MA_0001969--hyoid artery	1612
+MA_0001964--hindlimb digital arteries	1613
+MA_0001965--hindlimb common dorsal digital arteries	1614
+MA_0000634--shoulder nerve	1615
+MA_0000632--shoulder connective tissue	1616
+MA_0000631--shoulder bone	1617
+MA_0000649--foot digit nerve	1618
+MA_0000648--foot digit muscle	1619
+MA_0000647--foot digit connective tissue	1620
+MA_0000646--foot digit bone	1621
+MA_0000640--ankle nerve	1622
+MA_0000645--foot digit blood vessel	1623
+MA_0000644--foot connective tissue	1624
+MA_0000642--foot blood vessel	1625
+MA_0000659--hindlimb blood vessel	1626
+MA_0000657--hip muscle	1627
+MA_0001505--joint of girdle	1628
+MA_0000651--foot interdigit region	1629
+MA_0001985--intersegmental artery	1630
+MA_0001986--kidney subcortical arteries	1631
+MA_0001503--postcranial synchondrosis	1632
+MA_0000656--hip connective tissue	1633
+MA_0000653--foot nerve	1634
+MA_0001990--lieno-gastric artery	1635
+MA_0001519--joint fibrous capsule	1636
+MA_0000669--leg blood vessel	1637
+MA_0001518--joint articular surface	1638
+MA_0000663--hindlimb muscle	1639
+MA_0000662--hindlimb joint	1640
+MA_0000661--hindlimb connective tissue	1641
+MA_0000660--hindlimb bone	1642
+MA_0000667--knee connective tissue	1643
+MA_0000665--hindlimb skin	1644
+MA_0001993--major palatine artery	1645
+MA_0000664--hindlimb nerve	1646
+MA_0001994--maternal placental artery	1647
+MA_0000670--leg bone	1648
+MA_0000679--lower leg nerve	1649
+MA_0001528--anal canal caudal part	1650
+MA_0001529--anal canal rostral part	1651
+MA_0001522--gastrointestinal system serosa	1652
+MA_0000673--leg nerve	1653
+MA_0001523--gastrointestinal system smooth muscle	1654
+MA_0000671--leg connective tissue	1655
+MA_0001525--bowel wall	1656
+MA_0000678--lower leg muscle	1657
+MA_0000677--lower leg connective tissue	1658
+MA_0001520--gastrointestinal system epithelium	1659
+MA_0000676--lower leg bone	1660
+MA_0000675--lower leg blood vessel	1661
+MA_0001521--gastrointestinal system mucosa	1662
+MA_0000681--upper leg blood vessel	1663
+MA_0000680--lower leg skin	1664
+MA_0000209--midbrain periaqueductal grey	1665
+MA_0001537--intestine mucosa	1666
+MA_0001538--intestine serosa	1667
+MA_0001539--intestine smooth muscle	1668
+MA_0000201--cerebellar layer	1669
+MA_0000685--upper leg nerve	1670
+MA_0001533--anococcygeus	1671
+MA_0000200--cerebellar hemisphere	1672
+MA_0000684--upper leg muscle	1673
+MA_0000683--upper leg connective tissue	1674
+MA_0000682--upper leg bone	1675
+MA_0001536--intestine epithelium	1676
+MA_0000689--limb connective tissue	1677
+MA_0000688--limb bone	1678
+MA_0001530--anal region skeletal muscle	1679
+MA_0000203--deep cerebellar nucleus	1680
+MA_0000687--limb blood vessel	1681
+MA_0000202--cerebellar vermis	1682
+MA_0000686--upper leg skin	1683
+MA_0001532--anal region smooth muscle	1684
+MA_0000692--limb muscle	1685
+MA_0000691--limb joint	1686
+MA_0000690--limb digit	1687
+MA_0001548--large intestine smooth muscle circular layer	1688
+MA_0001549--large intestine smooth muscle longitudinal layer	1689
+MA_0000212--tegmentum	1690
+MA_0000696--tail bone	1691
+MA_0001544--large intestine crypt of lieberkuhn	1692
+MA_0000211--tectum	1693
+MA_0000695--tail blood vessel	1694
+MA_0001545--large intestine epithelium	1695
+MA_0001546--large intestine serosa	1696
+MA_0000693--limb nerve	1697
+MA_0001547--large intestine smooth muscle	1698
+MA_0000699--tail muscle	1699
+MA_0000214--cranial ganglion	1700
+MA_0000698--tail intervertebral disc	1701
+MA_0000213--cranial ganglion/nerve	1702
+MA_0000697--tail connective tissue	1703
+MA_0001550--large intestine peyer's patch	1704
+MA_0000229--peripheral nerve trunk	1705
+MA_0001559--small intestine smooth muscle	1706
+MA_0002409--lower respiratory tract connective tissue	1707
+MA_0001555--small intestine mesentery	1708
+MA_0001556--mesoduodenum	1709
+MA_0001557--small intestine peyer's patch	1710
+MA_0002405--adult mouse	1711
+MA_0000227--sympathetic nerve trunk	1712
+MA_0001552--small intestine crypt of lieberkuhn	1713
+MA_0001553--small intestine epithelium	1714
+MA_0000224--parasympathetic nerve	1715
+MA_0001560--small intestine smooth muscle circular layer	1716
+MA_0001561--small intestine smooth muscle longitudinal layer	1717
+MA_0000230--spinal ganglion/nerve	1718
+MA_0000239--osseus cochlea	1719
+MA_0002419--pancreatic islet core	1720
+MA_0000234--segmental spinal nerve	1721
+MA_0001566--esophagus basal epithelium	1722
+MA_0001567--esophagus squamous epithelium	1723
+MA_0001568--esophagus lamina propria	1724
+MA_0001569--esophagus mesentery	1725
+MA_0001563--small intestine villus	1726
+MA_0002410--lower respiratory tract smooth muscle	1727
+MA_0001570--dorsal meso-esophagus	1728
+MA_0001572--esophagus skeletal muscle	1729
+MA_0000241--endolymphatic duct/sac	1730
+MA_0002428--hippocampus region	1731
+MA_0001577--lip philtrum	1732
+MA_0001578--lip skeletal muscle	1733
+MA_0002426--hypothalamic nucleus	1734
+MA_0001573--esophagus smooth muscle	1735
+MA_0001574--esophagus smooth muscle circular layer	1736
+MA_0002421--pancreatic islet mantle	1737
+MA_0001575--esophagus smooth muscle longitudinal layer	1738
+MA_0002422--prostate gland anterior lobe	1739
+MA_0001580--meckel's cartilage	1740
+MA_0001581--palatal shelf	1741
+MA_0001583--primary palate	1742
+MA_0000252--otic capsule	1743
+MA_0000250--osseus semicircular canal	1744
+MA_0001108--vagus X nerve right recurrent laryngeal branch	1745
+MA_0001109--vestibulocochlear VIII nerve	1746
+MA_0000256--tympanic cavity muscle	1747
+MA_0001104--trigeminal V nerve ophthalmic division	1748
+MA_0001105--trochlear IV nerve	1749
+MA_0001106--vagus X nerve	1750
+MA_0001107--vagus X nerve left recurrent laryngeal branch	1751
+MA_0001100--trigeminal V nerve	1752
+MA_0001584--palatine gland	1753
+MA_0001101--trigeminal V nerve mandibular division	1754
+MA_0001102--trigeminal V nerve lingual branch	1755
+MA_0001103--trigeminal V nerve maxillary division	1756
+MA_0001587--salivary gland epithelium	1757
+MA_0001110--vestibulocochlear VIII nerve cochlear component	1758
+MA_0001590--intermolar eminence	1759
+MA_0000267--eye gland	1760
+MA_0002448--cavity lining	1761
+MA_0001117--spinal cord central canal	1762
+MA_0001118--spinal cord central grey	1763
+MA_0002449--heart/pericardium	1764
+MA_0001111--vestibulocochlear VIII nerve vestibular component	1765
+MA_0001596--tongue skeletal muscle	1766
+MA_0001597--dental lamina	1767
+MA_0000270--eyelid tarsus	1768
+MA_0002450--body fluid/substance	1769
+MA_0001120--spinal cord basal nucleus	1770
+MA_0002451--eye skin gland	1771
+MA_0002452--eye sebaceous gland	1772
+MA_0000272--hyaloid cavity	1773
+MA_0000271--eye muscle	1774
+MA_0001126--spinal cord intermediate grey	1775
+MA_0002457--lung blood vessel	1776
+MA_0000277--neural retinal epithelium	1777
+MA_0001127--spinal cord central cervical nucleus	1778
+MA_0001128--spinal cord dorsal commissural nucleus	1779
+MA_0001129--spinal cord lateral motor column	1780
+MA_0001122--spinal cord marginal zone	1781
+MA_0001123--spinal cord reticular nucleus	1782
+MA_0001125--spinal cord ependymal layer	1783
+MA_0002456--septal coronary artery	1784
+MA_0001250--eyelid blood vessel	1785
+MA_0002581--rest of afferent arteriole	1786
+MA_0002582--renal cortex artery	1787
+MA_0001253--eyelid submuscular connective tissue	1788
+MA_0002100--deferent duct vein	1789
+MA_0002580--part of afferent arteriole forming juxtaglomerular complex	1790
+MA_0002109--dorsal vena of penis	1791
+MA_0002589--outer renal medulla peritubular capillary	1792
+MA_0002106--dorsal nasal vein	1793
+MA_0002107--dorsal penis vein	1794
+MA_0002108--dorsal spinal vein	1795
+MA_0002585--efferent arteriole	1796
+MA_0001255--eyelid nerve	1797
+MA_0002102--dorsal cerebellar vein	1798
+MA_0002586--kidney capillary	1799
+MA_0002103--dorsal cerebral vein	1800
+MA_0001257--inferior eyelid tarsus	1801
+MA_0002104--dorsal intercostal vein	1802
+MA_0002588--peritubular capillary	1803
+MA_0002592--renal cortex vein	1804
+MA_0002593--arcuate vein	1805
+MA_0002110--dorsal venous arch	1806
+MA_0002594--interlobular vein	1807
+MA_0002595--vasa recta	1808
+MA_0002590--renal cortex peritubular capillary	1809
+MA_0001260--superior eyelid tarsus	1810
+MA_0002591--kidney venous blood vessel	1811
+MA_0002117--posterior facial vein	1812
+MA_0002112--duodenal vein	1813
+MA_0002596--inner renal medulla vasa recta	1814
+MA_0002113--dural vein	1815
+MA_0002597--outer renal medulla vasa recta	1816
+MA_0002598--inner renal medulla collecting duct	1817
+MA_0001268--ocular smooth muscle	1818
+MA_0002599--outer renal medulla collecting duct	1819
+MA_0002120--forelimb digital veins	1820
+MA_0001275--oblique extraocular muscle	1821
+MA_0002122--digital torus vein	1822
+MA_0001270--iris smooth muscle	1823
+MA_0001271--extraocular skeletal muscle	1824
+MA_0002127--superficial palmal arch	1825
+MA_0002129--gastroepiploic vein	1826
+MA_0001276--inferior oblique extraocular muscle	1827
+MA_0002123--forelimb common dorsal digital vein	1828
+MA_0001277--superior oblique extraocular muscle	1829
+MA_0002124--forelimb proper dorsal digital vein	1830
+MA_0001278--rectus extraocular muscle	1831
+MA_0002125--lateral dorsal digital vein 05	1832
+MA_0001279--inferior rectus extraocular muscle	1833
+MA_0002126--proper palmal vein	1834
+MA_0001283--hyaloid vascular plexus	1835
+MA_0001284--tunica vasculosa plexus	1836
+MA_0002131--great vein of heart	1837
+MA_0001285--vasa hyaloidea propria	1838
+MA_0002133--hindlimb digital veins	1839
+MA_0001280--lateral rectus extraocular muscle	1840
+MA_0001281--medial rectus extraocular muscle	1841
+MA_0001282--superior rectus extraocular muscle	1842
+MA_0002138--proper plantar vein	1843
+MA_0002134--common plantar vein	1844
+MA_0002136--hindlimb common dorsal digital vein	1845
+MA_0002137--hindlimb proper dorsal digital vein	1846
+MA_0001297--lacrimal gland epithelium	1847
+MA_0001290--iris blood vessel	1848
+MA_0001291--iris nerve	1849
+MA_0002152--ischiatic vein	1850
+MA_0002158--kidney subcortical veins	1851
+MA_0002159--lateral caudal vein	1852
+MA_0002163--left hepatico-cardiac vein	1853
+MA_0002164--lienal vein	1854
+MA_0002165--lieno-pancreatic vein	1855
+MA_0002166--linguofacial vein	1856
+MA_0002161--lateral saphenous vein	1857
+MA_0002168--maternal placental vein	1858
+MA_0002174--medial tarsal vein	1859
+MA_0002172--medial plantar vein	1860
+MA_0002173--medial saphenous vein	1861
+MA_0002182--naso-frontal vein	1862
+MA_0002184--ocular angle vein	1863
+MA_0002180--middle caudal vein	1864
+MA_0002196--pial vein	1865
+MA_0002199--principal vein of forelimb	1866
+MA_0002192--superior pancreatico-duodenal vein	1867
+MA_0000803--epidermis stratum basale	1868
+MA_0000802--superficial dermis	1869
+MA_0000801--dermis reticular layer	1870
+MA_0000800--dermis papillary layer	1871
+MA_0000807--epidermis stratum spinosum	1872
+MA_0000806--epidermis stratum lucidum	1873
+MA_0000805--epidermis stratum granulosum	1874
+MA_0000804--epidermis stratum corneum	1875
+MA_0000809--brain ependyma	1876
+MA_0000808--epidermis suprabasal layer	1877
+MA_0000814--brain arachnoid matter	1878
+MA_0000813--brain meninges	1879
+MA_0000812--brain marginal zone	1880
+MA_0000817--brain subventricular zone	1881
+MA_0000819--brain ventricular zone	1882
+MA_0000825--choroid plexus stroma	1883
+MA_0000822--brainstem periaqueductal grey	1884
+MA_0000829--diencephalon pia mater	1885
+MA_0000828--diencephalon dura mater	1886
+MA_0000827--diencephalon arachnoid mater	1887
+MA_0000826--diencephalon meninges	1888
+MA_0000821--brainstem nucleus	1889
+MA_0000833--hypothalamus lateral zone	1890
+MA_0000839--medial preoptic region	1891
+MA_0000837--hypothalamus medial zone	1892
+MA_0000724--pancreas parenchyma	1893
+MA_0000723--pancreas right lobe	1894
+MA_0000722--pancreas left lobe	1895
+MA_0000721--pancreas lobe	1896
+MA_0000720--neuroendocrine gland	1897
+MA_0000733--peyer's patch dome	1898
+MA_0000732--peyer's patch follicle	1899
+MA_0000731--peyer's patch epithelium	1900
+MA_0000748--afferent lymphatic vessel	1901
+MA_0000747--lymph organ	1902
+MA_0000749--efferent lymphatic vessel	1903
+MA_0000743--lymph node primary follicle	1904
+MA_0000742--lymph node follicle	1905
+MA_0000741--lymph node endothelium	1906
+MA_0000758--spleen trabeculum	1907
+MA_0001608--stomach blind ventricular sac	1908
+MA_0000757--spleen smooth muscle	1909
+MA_0001609--stomach cardiac region	1910
+MA_0000756--spleen red pulp	1911
+MA_0001604--tooth enamel organ	1912
+MA_0001606--forestomach	1913
+MA_0000751--lymphatic vessel smooth muscle	1914
+MA_0000753--spleen capsule	1915
+MA_0001618--dorsal mesogastrium	1916
+MA_0000769--thymus subcapsular epithelium	1917
+MA_0001619--gastro-splenic ligament	1918
+MA_0000768--thymus epithelium	1919
+MA_0001614--stomach glandular region mucous membrane	1920
+MA_0001615--stomach greater curvature	1921
+MA_0001616--stomach lesser curvature	1922
+MA_0001617--stomach mesentery	1923
+MA_0000762--spleen white pulp	1924
+MA_0000761--spleen venous sinus	1925
+MA_0001611--stomach squamous epithelium	1926
+MA_0001613--stomach glandular region	1927
+MA_0000763--spleen central arteriole	1928
+MA_0000779--hair inner root sheath	1929
+MA_0000778--arrector pili smooth muscle	1930
+MA_0001625--stomach proventricular region	1931
+MA_0001627--stomach smooth muscle	1932
+MA_0001628--stomach smooth muscle circular layer	1933
+MA_0000773--lingual tonsillar tissue	1934
+MA_0001621--ventral mesogastrium	1935
+MA_0000777--tonsil crypt	1936
+MA_0000776--tonsil capsule	1937
+MA_0001620--lieno-renal ligament	1938
+MA_0000780--hair outer root sheath	1939
+MA_0000307--other limb bone	1940
+MA_0000789--cervical mammary gland	1941
+MA_0001636--hepatic duct extrahepatic part	1942
+MA_0001637--hepatic duct intrahepatic part	1943
+MA_0000300--hindlimb long bone	1944
+MA_0000784--vibrissa root sheath	1945
+MA_0000783--vibrissa hair bulb	1946
+MA_0001633--gall bladder lamina propria	1947
+MA_0000782--vibrissa hair	1948
+MA_0001634--gall bladder serosa	1949
+MA_0000781--hair root sheath matrix	1950
+MA_0001635--gall bladder smooth muscle	1951
+MA_0000787--abdominal mammary gland	1952
+MA_0000786--vibrissa outer root sheath	1953
+MA_0001630--bile duct intrahepatic part	1954
+MA_0000301--metacarpal/metatarsal bone	1955
+MA_0000785--vibrissa inner root sheath	1956
+MA_0000790--inguinal mammary gland	1957
+MA_0001647--area cribosa	1958
+MA_0001648--juxtamedullary cortex	1959
+MA_0000795--mammary gland smooth muscle	1960
+MA_0001643--liver papillary process	1961
+MA_0000794--mammary gland sebaceous gland	1962
+MA_0000793--mammary gland lobule	1963
+MA_0000792--mammary gland epithelium	1964
+MA_0001646--papillary duct	1965
+MA_0000799--dermis connective tissue	1966
+MA_0000798--dermis adipose tissue	1967
+MA_0001640--hepatic duct smooth muscle	1968
+MA_0000797--thoracic mammary gland	1969
+MA_0001641--liver left lateral lobe	1970
+MA_0001642--liver left medial lobe	1971
+MA_0002505--mammary gland fluid/secretion	1972
+MA_0001659--glomerular capillary basement membrane	1973
+MA_0002504--exocrine gland fluid/secretion	1974
+MA_0000325--renal/urinary system	1975
+MA_0002516--pancreas secretion	1976
+MA_0001665--renal convoluted tubule	1977
+MA_0002512--digestive system fluid/secretion	1978
+MA_0001667--distal convoluted tubule convoluted part	1979
+MA_0001668--distal convoluted tubule macula densa	1980
+MA_0002515--intestine secretion	1981
+MA_0001661--glomerular juxtacapillary capsular wall	1982
+MA_0001662--glomerular outer capsular wall	1983
+MA_0001663--juxtamedullary renal corpuscle	1984
+MA_0002510--female reproductive system fluid/secretion	1985
+MA_0002511--ovary follicle fluid	1986
+MA_0001670--proximal convoluted tubule neck	1987
+MA_0001671--proximal convoluted tubule convoluted part	1988
+MA_0000344--oral epithelium	1989
+MA_0001676--loop of henle ascending limb	1990
+MA_0001677--loop of henle ascending limb thick segment	1991
+MA_0001678--loop of henle ascending limb thin segment	1992
+MA_0001679--loop of henle descending limb	1993
+MA_0001672--proximal convoluted tubule straight part	1994
+MA_0001673--distal convoluted tubule straight part	1995
+MA_0001674--junctional tubule	1996
+MA_0002521--male reproductive system fluid/secretion	1997
+MA_0000345--oral region cartilage/bone	1998
+MA_0001682--kidney blood vessel	1999
+MA_0000350--molar	2000
+MA_0001204--utricle epithelium	2001
+MA_0001689--urethra lamina propria	2002
+MA_0002537--skin fluid/secretion	2003
+MA_0000359--liver bare area	2004
+MA_0001202--saccule epithelium	2005
+MA_0002533--respiratory system fluid/secretion	2006
+MA_0001690--urethra skeletal muscle	2007
+MA_0001691--urethra smooth muscle	2008
+MA_0000362--liver middle lobe	2009
+MA_0001218--tubotympanic recess	2010
+MA_0002549--retroperitoneal fat pad	2011
+MA_0001219--tympanic cavity blood vessel	2012
+MA_0001698--urinary bladder detrussor smooth muscle	2013
+MA_0000365--liver quadrate lobe	2014
+MA_0001699--urinary bladder neck smooth muscle	2015
+MA_0000364--liver caudate lobe	2016
+MA_0002547--gonadal fat pad	2017
+MA_0002548--inguinal fat pad	2018
+MA_0001210--crus commune	2019
+MA_0001694--urinary bladder fundus region	2020
+MA_0001695--urinary bladder lamina propria	2021
+MA_0001697--urinary bladder smooth muscle	2022
+MA_0002550--epididymal fat pad	2023
+MA_0000371--kidney collecting duct	2024
+MA_0001226--auricular blood vessel	2025
+MA_0001228--auricular ligament	2026
+MA_0001222--tympanic cavity nerves	2027
+MA_0001223--tympanic endothelium	2028
+MA_0002561--stomach region	2029
+MA_0000383--female reproductive gland	2030
+MA_0000387--os clitoris	2031
+MA_0001237--choroidal blood vessel	2032
+MA_0001239--ciliary stroma	2033
+MA_0001232--auricular nerve	2034
+MA_0001234--external acoustic meatus cartilaginous part	2035
+MA_0001235--external acoustic meatus osseus part	2036
+MA_0001240--anterior limiting lamina	2037
+MA_0001241--corneal blood vessel	2038
+MA_0000399--male reproductive gland	2039
+MA_0001247--harderian gland	2040
+MA_0002578--kidney arterial blood vessel	2041
+MA_0000398--efferent duct	2042
+MA_0001248--harderian gland epithelium	2043
+MA_0002579--afferent arteriole	2044
+MA_0001244--corneal nerves	2045
+MA_0001246--posterior limiting lamina	2046
+MA_0002577--pre-botzinger complex	2047
+MA_0000041--hand digit	2048
+MA_0001379--ulnar sesamoid bone	2049
+MA_0002227--superior vesical vein	2050
+MA_0001376--proximal sesamoid bone of foot	2051
+MA_0001377--proximal sesamoid bone of hand	2052
+MA_0000048--foot digit	2053
+MA_0001378--sesamoid bone of gastrocnemius	2054
+MA_0002225--superficial cervical vein	2055
+MA_0002230--inferior suprarenal vein	2056
+MA_0002232--external sural vein	2057
+MA_0000052--upper leg	2058
+MA_0000051--lower leg	2059
+MA_0000056--fat	2060
+MA_0001386--middle phalanx of foot	2061
+MA_0002233--tail vein	2062
+MA_0002236--external thoracic vein	2063
+MA_0000061--arterial blood vessel	2064
+MA_0002248--ulnar collateral vein	2065
+MA_0000066--venous blood vessel	2066
+MA_0001397--distal rib	2067
+MA_0002252--vein of clitoris	2068
+MA_0002253--vein of lower lip	2069
+MA_0002254--vein of trabecular bone	2070
+MA_0000076--heart endocardium	2071
+MA_0000075--heart right atrium	2072
+MA_0000074--heart left atrium	2073
+MA_0002250--ureteric vein	2074
+MA_0002259--ventral intercostal vein	2075
+MA_0000079--ventricle endocardium	2076
+MA_0000077--atrium endocardium	2077
+MA_0002255--vein of upper lip	2078
+MA_0002256--vein of vesicular gland	2079
+MA_0002257--venous vaginal plexus	2080
+MA_0002258--ventral auricular vein	2081
+MA_0000082--ventricle myocardium	2082
+MA_0002263--vesical vein	2083
+MA_0000081--atrium myocardium	2084
+MA_0000080--heart myocardium	2085
+MA_0002260--ventral labial vein	2086
+MA_0002261--ventral nasal vein	2087
+MA_0000094--impulse conducting system	2088
+MA_0000093--heart right ventricle	2089
+MA_0000092--heart left ventricle	2090
+MA_0000098--mesocardium	2091
+MA_0002279--constrictor muscle of pharynx inferior	2092
+MA_0002280--constrictor muscle of pharynx superior	2093
+MA_0002283--cricoarytenoid	2094
+MA_0002296--extrinsic tongue muscle	2095
+MA_0000902--cortical layer VI	2096
+MA_0000906--frontal association cortex	2097
+MA_0000903--anterior medial cortex	2098
+MA_0000908--primary somatosensory cortex	2099
+MA_0000912--perirhinal cortex	2100
+MA_0000911--lateral entorhinal cortex	2101
+MA_0000915--secondary visual cortex	2102
+MA_0000918--secondary somatosensory cortex	2103
+MA_0000922--medial entorhinal cortex	2104
+MA_0000928--magnocellular nucleus	2105
+MA_0000927--fusiform nucleus	2106
+MA_0000926--anterior division	2107
+MA_0000920--retrohippocampal cortex	2108
+MA_0000934--medial septal complex	2109
+MA_0000933--lateral septal complex	2110
+MA_0000932--transverse nucleus	2111
+MA_0000939--septohippocampal nucleus	2112
+MA_0000937--posterior septal complex	2113
+MA_0000931--principal nucleus	2114
+MA_0000930--posterior division	2115
+MA_0000946--dentate gyrus granule cell layer	2116
+MA_0000943--temporal cortex association area	2117
+MA_0000949--fimbria hippocampus	2118
+MA_0000948--dentate gyrus pyramidal layer	2119
+MA_0000957--hippocampus stratum lacunosum	2120
+MA_0001805--respiratory system blood vessel endothelium	2121
+MA_0000956--hippocampus pyramidal layer	2122
+MA_0001806--respiratory system blood vessel smooth muscle	2123
+MA_0000955--hippocampus molecular layer	2124
+MA_0001807--respiratory system capillary	2125
+MA_0000954--hippocampus granule cell layer	2126
+MA_0001808--respiratory system capillary endothelium	2127
+MA_0001801--respiratory system arterial endothelium	2128
+MA_0001802--respiratory system arterial smooth muscle	2129
+MA_0000959--hippocampus stratum radiatum	2130
+MA_0001803--respiratory system arteriole	2131
+MA_0000958--hippocampus stratum oriens	2132
+MA_0001804--respiratory system artery	2133
+MA_0001800--respiratory system arterial blood vessel	2134
+MA_0000953--hippocampus CA4	2135
+MA_0000952--hippocampus CA3	2136
+MA_0000951--hippocampus CA2	2137
+MA_0000950--hippocampus CA1	2138
+MA_0000846--hypothalamus periventricular zone	2139
+MA_0000844--tuberal area	2140
+MA_0000842--subparaventricular zone	2141
+MA_0000858--infundibulum	2142
+MA_0000857--remnant of Rathke's pouch	2143
+MA_0000856--pars tuberalis	2144
+MA_0001708--ovary growing follicle	2145
+MA_0000855--pars intermedia	2146
+MA_0001709--ovary mature follicle	2147
+MA_0001702--clitoral gland	2148
+MA_0001703--female preputial gland	2149
+MA_0001700--urinary bladder trigone smooth muscle	2150
+MA_0000854--pars anterior	2151
+MA_0000868--geniculate thalamic group	2152
+MA_0001718--oviduct epithelium	2153
+MA_0000867--ventral posterior thalamic group	2154
+MA_0001719--ciliated columnar oviduct epithelium	2155
+MA_0001713--ovary theca externa	2156
+MA_0001714--ovary theca interna	2157
+MA_0000861--anterior thalamic group	2158
+MA_0001710--ovary primordial follicle	2159
+MA_0001711--ovary germinal epithelium	2160
+MA_0001712--ovary theca	2161
+MA_0000864--midline thalamic group	2162
+MA_0000863--medial thalamic group	2163
+MA_0000862--lateral thalamic group	2164
+MA_0001728--right uterine horn	2165
+MA_0001729--uterus serosa	2166
+MA_0001727--left uterine horn	2167
+MA_0001720--cuboidal oviduct epithelium	2168
+MA_0000871--intralaminar thalamic group	2169
+MA_0001721--oviduct smooth muscle	2170
+MA_0001723--placenta metrial gland	2171
+MA_0001739--prostate gland dorsolateral lobe	2172
+MA_0000406--os penis	2173
+MA_0000405--vesicular gland	2174
+MA_0001735--epididymal duct	2175
+MA_0001736--epididymal smooth muscle	2176
+MA_0001737--prostate gland epithelium	2177
+MA_0000883--forebrain meninges	2178
+MA_0001731--vagina squamous epithelium	2179
+MA_0000882--third ventricle ependyma	2180
+MA_0001732--vagina sebaceous gland	2181
+MA_0000881--third ventricle choroid plexus stroma	2182
+MA_0001733--vagina smooth muscle	2183
+MA_0000880--third ventricle choroid plexus epithelium	2184
+MA_0001734--efferent duct epithelium	2185
+MA_0000403--male preputial gland	2186
+MA_0000402--coagulating gland	2187
+MA_0000886--forebrain pia mater	2188
+MA_0000885--forebrain dura mater	2189
+MA_0000400--ampullary gland	2190
+MA_0000884--forebrain arachnoid mater	2191
+MA_0001730--vagina epithelium	2192
+MA_0000416--alveolar system	2193
+MA_0000899--cortical layer III	2194
+MA_0001748--seminiferous tubule epithelium	2195
+MA_0001742--penis epithelium	2196
+MA_0000893--caudate-putamen	2197
+MA_0001744--penis foreskin	2198
+MA_0000897--cortical layer I	2199
+MA_0001740--prostate gland ventral lobe	2200
+MA_0001741--prostate gland smooth muscle	2201
+MA_0000429--right lung cranial lobe	2202
+MA_0002608--renal cortex interstitium	2203
+MA_0000428--right lung caudal lobe	2204
+MA_0002609--renal cortex tubule	2205
+MA_0000427--right lung accessory lobe	2206
+MA_0001757--laryngeal intrinsic ligament	2207
+MA_0002604--distal straight tubule macula densa	2208
+MA_0001758--larynx cartilage	2209
+MA_0002605--glomerular parietal epithelium	2210
+MA_0002607--glomerular visceral epithelium	2211
+MA_0002600--renal cortex collecting duct	2212
+MA_0001754--larynx connective tissue	2213
+MA_0002601--ureteric tip	2214
+MA_0001755--larynx ligament	2215
+MA_0001756--laryngeal extrinsic ligament	2216
+MA_0001750--vas deferens smooth muscle	2217
+MA_0001751--reproductive gland	2218
+MA_0001752--reproductive organ	2219
+MA_0002619--renal medulla interstitium	2220
+MA_0001768--larynx muscle	2221
+MA_0002615--distal straight tubule postmacula segment	2222
+MA_0001769--laryngeal extrinsic muscle	2223
+MA_0002616--kidney interstitium	2224
+MA_0002618--perihilar interstitium	2225
+MA_0002611--renal proximal tubule	2226
+MA_0001765--larynx epithelium	2227
+MA_0002612--proximal tubule segment 1	2228
+MA_0001766--larynx mucosa	2229
+MA_0002613--proximal tubule segment 2	2230
+MA_0001767--larynx mucous gland	2231
+MA_0001760--apex of arytenoid	2232
+MA_0001761--base of arytenoid	2233
+MA_0002610--renal connecting tubule	2234
+MA_0001770--laryngeal intrinsic muscle	2235
+MA_0000449--peritoneal cavity lining	2236
+MA_0000448--peritoneal cavity greater sac	2237
+MA_0002626--outer medulla inner stripe	2238
+MA_0002627--outer medulla inner stripe loop of henle	2239
+MA_0002628--distal straight tubule premacula segment	2240
+MA_0002629--outer medulla outer stripe	2241
+MA_0001775--left lung alveolar system	2242
+MA_0002622--renal subcapsular mesenchyme	2243
+MA_0002623--inner renal medulla loop of henle	2244
+MA_0002624--loop of henle bend	2245
+MA_0002625--loop of henle thin descending limb	2246
+MA_0000447--omental bursa superior recess	2247
+MA_0001771--alveolus epithelium	2248
+MA_0000446--omental bursa inferior recess	2249
+MA_0002620--inner renal medulla interstitium	2250
+MA_0000444--left hepatic recess	2251
+MA_0002621--outer renal medulla interstitium	2252
+MA_0001781--left lung hilus	2253
+MA_0000450--right hepatic recess	2254
+MA_0002638--female membranous urethra	2255
+MA_0002639--female urethral meatus	2256
+MA_0001309--retina external limiting lamina	2257
+MA_0001302--lens anterior epithelium	2258
+MA_0002633--renal distal tubule	2259
+MA_0000453--metacarpo-phalangeal joint	2260
+MA_0001303--lens equatorial epithelium	2261
+MA_0002634--renal straight tubule	2262
+MA_0000452--hand joint	2263
+MA_0001782--lung connective tissue	2264
+MA_0001783--lung epithelium	2265
+MA_0002630--outer medulla outer stripe loop of henle	2266
+MA_0001784--right lung alveolar system	2267
+MA_0002631--kidney pelvis smooth muscle	2268
+MA_0002632--kidney pelvis urothelium	2269
+MA_0001790--right lung hilus	2270
+MA_0000461--radio-carpal joint	2271
+MA_0001317--retina blood vessel	2272
+MA_0002648--urethra mesenchymal layer	2273
+MA_0001318--retina lamina	2274
+MA_0002649--urethra muscle	2275
+MA_0001313--retina internal limiting lamina	2276
+MA_0001797--pharynx muscle	2277
+MA_0002644--penile urethra cavernous portion	2278
+MA_0000464--foot joint	2279
+MA_0001314--retina nerve fiber layer	2280
+MA_0001798--pretracheal muscle	2281
+MA_0002645--penile urethra fossa terminalis	2282
+MA_0001799--respiratory system blood vessel	2283
+MA_0001316--retina outer plexiform layer	2284
+MA_0001310--retina ganglion cell layer	2285
+MA_0002641--male membranous urethra	2286
+MA_0001311--retina inner nuclear layer	2287
+MA_0002642--male urethra ostium	2288
+MA_0001312--retina inner plexiform layer	2289
+MA_0002650--urethral sphincter	2290
+MA_0000472--abdominal fat pad	2291
+MA_0001328--vomeronasal organ sensory epithelium	2292
+MA_0002659--bile duct extrahepatic part	2293
+MA_0000476--dorsal aorta	2294
+MA_0002655--ureter urothelium	2295
+MA_0001325--nasal cavity olfactory epithelium	2296
+MA_0002656--ureter luminal urothelium	2297
+MA_0002657--ureter subluminal urothelium	2298
+MA_0001327--septal olfactory organ	2299
+MA_0002658--ureteral valve	2300
+MA_0002651--rest of ureter	2301
+MA_0000479--right dorsal aorta	2302
+MA_0001321--external naris epithelium	2303
+MA_0002652--ureter adventitia	2304
+MA_0000478--left dorsal aorta	2305
+MA_0001322--primary choana	2306
+MA_0002653--ureter lamina propria	2307
+MA_0000477--common dorsal aorta	2308
+MA_0002654--ureter muscle layer	2309
+MA_0000482--dorsal mesocardium	2310
+MA_0000008--tail	2311
+MA_0002666--hilar part of left hepatic duct	2312
+MA_0000486--white fibrocartilage	2313
+MA_0002667--hilar part of right hepatic duct	2314
+MA_0000001--mouse anatomy	2315
+MA_0000485--yellow elastic cartilage	2316
+MA_0002663--intrahepatic part of left hepatic duct	2317
+MA_0000005--body cavity/lining	2318
+MA_0000489--outflow tract myocardium	2319
+MA_0002664--intrahepatic part of right hepatic duct	2320
+MA_0002665--hilar part of hepatic duct	2321
+MA_0000490--outflow tract endothelium	2322
+MA_0002670--spleen hilum	2323
+MA_0002672--spleen lymphoid follicle	2324
+MA_0000494--back bone	2325
+MA_0000493--back blood vessel	2326
+MA_0000492--outflow tract smooth muscle	2327
+MA_0000491--outflow tract pericardium	2328
+MA_0000019--visceral organ system	2329
+MA_0001346--scapholunate	2330
+MA_0000497--back nerve	2331
+MA_0000495--back connective tissue	2332
+MA_0002673--thymus lymphoid tissue	2333
+MA_0000017--sensory organ	2334
+MA_0002674--thymus trabecula	2335
+MA_0001344--central carpal bone	2336
+MA_0000499--lower back blood vessel	2337
+MA_0001345--falciform carpal bone	2338
+MA_0001350--medial tibial tarsal bone	2339
+MA_0002681--esophagus muscularis mucosa	2340
+MA_0002682--esophagus muscle	2341
+MA_0002683--stomach mucosa	2342
+MA_0000021--abdomen/pelvis/perineum	2343
+MA_0002209--right hepatico-cardiac vein	2344
+MA_0002204--superior external pudendal vein	2345
+MA_0002688--large intestine mucosa	2346
+MA_0002205--pudendoepigastric vein	2347
+MA_0002689--large intestine muscularis mucosa	2348
+MA_0002200--principal vein of hindlimb	2349
+MA_0002684--stomach muscularis mucosa	2350
+MA_0000028--upper back	2351
+MA_0002201--proximal caudal femoral vein	2352
+MA_0002685--stomach submucosa	2353
+MA_0000027--lower back	2354
+MA_0002202--pudendal vein	2355
+MA_0002686--small intestine mucosa	2356
+MA_0002203--inferior external pudendal vein	2357
+MA_0002687--small intestine muscularis mucosa	2358
+MA_0002693--intestine wall	2359
+MA_0002694--intestine muscularis mucosa	2360
+MA_0002690--large intestine submucosa	2361
+MA_0000035--upper arm	2362
+MA_0002695--large intestine wall	2363
+MA_0002696--small intestine wall	2364
+MA_0002214--rostral auricular vein	2365
+MA_0000160--coat hair follicle	2366
+MA_0001492--maxilla alveolar process	2367
+MA_0001010--abducens VI nucleus	2368
+MA_0001011--barrington's nucleus	2369
+MA_0002342--lumbosacrocaudalis	2370
+MA_0000163--vibrissa	2371
+MA_0000162--hair root sheath	2372
+MA_0001490--symphysis menti	2373
+MA_0000161--coat hair bulb	2374
+MA_0001018--nucleus of trapezoid body	2375
+MA_0001019--parabrachial nucleus	2376
+MA_0001012--cochlear VIII nucleus	2377
+MA_0001014--facial VII nucleus	2378
+MA_0001498--cartilaginous joint suture	2379
+MA_0002345--obliquus externus abdominis	2380
+MA_0002346--obliquus internus abdominis	2381
+MA_0001021--pontine nucleus	2382
+MA_0001028--trigeminal V nucleus	2383
+MA_0001029--trigeminal V motor nucleus	2384
+MA_0001030--trigeminal V sensory nucleus	2385
+MA_0002361--pterygoid medialis	2386
+MA_0001032--vestibular VIII nucleus	2387
+MA_0001033--accessory XI nucleus	2388
+MA_0002360--pterygoid lateralis	2389
+MA_0001039--hypoglossal XII nucleus	2390
+MA_0000187--neocortex region	2391
+MA_0002366--rectus thoracis	2392
+MA_0001036--dorsal motor nucleus of vagus X nerve	2393
+MA_0002367--rhomboid	2394
+MA_0001041--inferior olive beta subnucleus	2395
+MA_0001042--inferior olive dorsal accessory nucleus	2396
+MA_0001043--inferior olive inferior nucleus	2397
+MA_0001044--inferior olive medial accessory nucleus	2398
+MA_0001049--medullary reticular nucleus	2399
+MA_0002384--sternomastoid	2400
+MA_0001057--trigeminal V mesencephalic nucleus	2401
+MA_0001058--midbrain meninges	2402
+MA_0001059--midbrain arachnoid mater	2403
+MA_0001065--substantia nigra pars lateralis	2404
+MA_0001060--midbrain dura mater	2405
+MA_0001061--midbrain pia mater	2406
+MA_0001075--trochlear IV nucleus	2407
+MA_0001077--glossopharyngeal IX ganglion	2408
+MA_0001070--nucleus related to visual cortex	2409
+MA_0001071--edinger-westphal nucleus	2410
+MA_0001073--oculomotor III nucleus	2411
+MA_0001078--inferior glossopharyngeal IX ganglion	2412
+MA_0001079--superior glossopharyngeal IX ganglion	2413
+MA_0001085--vestibulocochlear VIII ganglion cochlear component	2414
+MA_0001086--vestibulocochlear VIII ganglion vestibular component	2415
+MA_0001087--abducens VI nerve	2416
+MA_0001088--accessory XI nerve	2417
+MA_0001081--vagus X ganglion	2418
+MA_0001082--inferior vagus X ganglion	2419
+MA_0001083--superior vagus X ganglion	2420
+MA_0001084--vestibulocochlear VIII ganglion	2421
+MA_0001080--trigeminal V ganglion	2422
+MA_0001089--accessory XI nerve cranial component	2423
+MA_0001096--olfactory I nerve	2424
+MA_0001097--optic II nerve	2425
+MA_0001099--optic stalk	2426
+MA_0001092--facial VII nerve chorda tympani branch	2427
+MA_0001093--glossopharyngeal IX nerve	2428
+MA_0001094--hypoglossal XII nerve	2429
+MA_0001095--oculomotor III nerve	2430
+MA_0001090--accessory XI nerve spinal component	2431
+MA_0001091--facial VII nerve	2432
+MA_0001900--gastrointestinal system mesentery	2433
+MA_0001901--back organ	2434
+MA_0001902--thoracic cavity artery	2435
+MA_0001903--thoracic cavity vein	2436
+MA_0001916--artery of lower lip	2437
+MA_0001917--artery of upper lip	2438
+MA_0001911--ocular refractive media	2439
+MA_0001912--upper respiratory tract epithelium	2440
+MA_0001910--muzzle/snout	2441
+MA_0001809--respiratory system venous blood vessel	2442
+MA_0001816--respiratory system basal lamina	2443
+MA_0000967--accessory olfactory bulb glomerular layer	2444
+MA_0001817--respiratory system reticular lamina	2445
+MA_0000966--accessory olfactory bulb	2446
+MA_0001818--respiratory system cartilage	2447
+MA_0000965--lateral ventricle subependymal layer	2448
+MA_0001812--respiratory system venous smooth muscle	2449
+MA_0001813--respiratory system venule	2450
+MA_0001814--respiratory system connective tissue	2451
+MA_0000969--olfactory bulb external plexiform layer	2452
+MA_0001815--respiratory system basement membrane	2453
+MA_0001810--respiratory system vein	2454
+MA_0001811--respiratory system venous endothelium	2455
+MA_0000963--lateral ventricle choroid plexus stroma	2456
+MA_0000979--telencephalon meninges	2457
+MA_0001827--respiratory system mucosa	2458
+MA_0000978--piriform cortex	2459
+MA_0001828--respiratory system muscle	2460
+MA_0001829--respiratory system skeletal muscle	2461
+MA_0001823--respiratory system epithelium	2462
+MA_0001824--respiratory system lymphatic vessel	2463
+MA_0001825--respiratory system lymphatic vessel endothelium	2464
+MA_0001826--respiratory system lymphatic vessel smooth muscle	2465
+MA_0000971--olfactory bulb granule cell layer	2466
+MA_0000970--olfactory bulb glomerular layer	2467
+MA_0001820--respiratory system elastic framework	2468
+MA_0001821--respiratory system lamina propria	2469
+MA_0001822--respiratory system submucosa	2470
+MA_0000974--olfactory bulb subependymal zone	2471
+MA_0000973--olfactory bulb mitral cell layer	2472
+MA_0000972--olfactory bulb internal plexiform layer	2473
+MA_0000506--upper back bone	2474
+MA_0001838--bronchus elastic framework	2475
+MA_0000505--upper back blood vessel	2476
+MA_0000989--hindbrain dura mater	2477
+MA_0001839--bronchus epithelium	2478
+MA_0000504--lower back skin	2479
+MA_0000988--hindbrain arachnoid mater	2480
+MA_0000503--lower back nerve	2481
+MA_0000987--hindbrain meninges	2482
+MA_0001834--bronchus reticular lamina	2483
+MA_0000509--upper back nerve	2484
+MA_0000508--upper back muscle	2485
+MA_0000507--upper back connective tissue	2486
+MA_0000982--telencephalon pia mater	2487
+MA_0001830--respiratory system smooth muscle	2488
+MA_0000981--telencephalon dura mater	2489
+MA_0000980--telencephalon arachnoid matter	2490
+MA_0000502--lower back muscle	2491
+MA_0000501--lower back connective tissue	2492
+MA_0000985--fourth ventricle choroid plexus stroma	2493
+MA_0000500--lower back bone	2494
+MA_0000516--trunk organ	2495
+MA_0000515--trunk nerve	2496
+MA_0001845--main bronchus connective tissue	2497
+MA_0001846--main bronchus cartilage	2498
+MA_0000519--abdomen connective tissue	2499
+MA_0001847--main bronchus epithelium	2500
+MA_0000518--abdomen blood vessel	2501
+MA_0001848--main bronchus smooth muscle	2502
+MA_0000993--cerebellum granule cell layer	2503
+MA_0001841--lobar bronchus connective tissue	2504
+MA_0000992--flocculus	2505
+MA_0001842--lobar bronchus epithelium	2506
+MA_0000991--cerebellum anterior lobe	2507
+MA_0000990--hindbrain pia mater	2508
+MA_0001844--main bronchus blood vessel	2509
+MA_0000513--trunk connective tissue	2510
+MA_0000512--trunk bone	2511
+MA_0000996--cerebellum molecular cell layer	2512
+MA_0000511--trunk blood vessel	2513
+MA_0000995--cerebellum internal granule cell layer	2514
+MA_0000510--upper back skin	2515
+MA_0000994--cerebellum external granule cell layer	2516
+MA_0001840--bronchus smooth muscle	2517
+MA_0000528--abdomen/pelvis/perineum nerve	2518
+MA_0000527--abdomen/pelvis/perineum muscle	2519
+MA_0000526--abdomen/pelvis/perineum connective tissue	2520
+MA_0002709--proximal nail bed	2521
+MA_0000525--abdomen/pelvis/perineum bone	2522
+MA_0001856--trachea reticular lamina	2523
+MA_0002704--cuticle	2524
+MA_0000529--abdomen/pelvis/perineum organ	2525
+MA_0001859--trachea non-cartilage connective tissue	2526
+MA_0002706--nail bed	2527
+MA_0000520--abdomen muscle	2528
+MA_0001852--trachea blood vessel	2529
+MA_0001853--trachea connective tissue	2530
+MA_0002700--anterior buccal gland	2531
+MA_0002701--anterior lingual gland	2532
+MA_0000524--abdomen/pelvis/perineum blood vessel	2533
+MA_0000522--abdomen organ	2534
+MA_0001850--segmental bronchus epithelium	2535
+MA_0000521--abdomen nerve	2536
+MA_0001851--terminal bronchus epithelium	2537
+MA_0000539--urogenital muscle	2538
+MA_0002719--arterial system	2539
+MA_0000536--iliac region muscle	2540
+MA_0002714--autopod	2541
+MA_0002715--autopod joint	2542
+MA_0001869--left atrium auricular region	2543
+MA_0002716--zeugopod	2544
+MA_0002717--stylopod	2545
+MA_0000531--pelvis blood vessel	2546
+MA_0002710--skin muscle	2547
+MA_0001863--trachea smooth muscle	2548
+MA_0000530--abdomen/pelvis/perineum skin	2549
+MA_0001864--nasopharynx connective tissue	2550
+MA_0002712--barrel cortex	2551
+MA_0002713--testis interstitial tissue	2552
+MA_0000534--pelvis muscle	2553
+MA_0000533--pelvis connective tissue	2554
+MA_0001861--trachea elastic framework	2555
+MA_0000532--pelvis bone	2556
+MA_0001862--trachea epithelium	2557
+MA_0002729--larynx submucosa gland	2558
+MA_0000549--chest blood vessel	2559
+MA_0000547--chest bone	2560
+MA_0002725--pharynx epithelium	2561
+MA_0001878--heart ventricle membranous part	2562
+MA_0001879--heart ventricle muscular part	2563
+MA_0002727--penis skin	2564
+MA_0002728--larynx submucosa	2565
+MA_0000542--pelvis nerve	2566
+MA_0001874--left ventricle membranous part	2567
+MA_0000541--male urogenital muscle	2568
+MA_0001875--left ventricle muscular part	2569
+MA_0000540--female urogenital muscle	2570
+MA_0001876--right ventricle membranous part	2571
+MA_0001877--right ventricle muscular part	2572
+MA_0000546--pelvis skin	2573
+MA_0001870--right atrium auricular region	2574
+MA_0000545--male reproductive gland/organ	2575
+MA_0001871--right atrium valve	2576
+MA_0000544--female reproductive gland/organ	2577
+MA_0001872--right atrium venous valve	2578
+MA_0000543--pelvis organ	2579
+MA_0000559--thorax bone	2580
+MA_0000558--thorax blood vessel	2581
+MA_0001889--adrenal gland brown degeneration zone	2582
+MA_0002736--myometrium outer longitudinal layer	2583
+MA_0002737--vagina stroma	2584
+MA_0002732--endometrium glandular epithelium	2585
+MA_0000552--chest organ	2586
+MA_0002733--endometrium luminal epithelium	2587
+MA_0000551--chest nerve	2588
+MA_0001887--adrenal gland cortex zone	2589
+MA_0002734--endometrium stroma	2590
+MA_0000550--chest connective tissue	2591
+MA_0001888--adrenal gland X zone	2592
+MA_0002735--myometrium inner circular layer	2593
+MA_0000557--thoracic cavity organ	2594
+MA_0001881--outflow tract pulmonary component distal part	2595
+MA_0000556--thoracic cavity nerve	2596
+MA_0001882--outflow tract pulmonary component proximal part	2597
+MA_0000555--thoracic cavity connective tissue	2598
+MA_0000554--thoracic cavity blood vessel	2599
+MA_0001400--proximal rib	2600
+MA_0002731--endometrium epithelium	2601
+MA_0001890--adrenal gland zona fasciculata	2602
+MA_0001891--adrenal gland zona glomerulosa	2603
+MA_0000560--thorax connective tissue	2604
+MA_0000569--head/neck bone	2605
+MA_0001418--rib ventral segment	2606
+MA_0002749--spinal cord dorsal column	2607
+MA_0000564--thorax skin	2608
+MA_0001896--guard hair	2609
+MA_0000563--thorax organ	2610
+MA_0001413--rib 13	2611
+MA_0001897--pelage hair	2612
+MA_0000562--thorax nerve	2613
+MA_0001414--rib dorsal segment	2614
+MA_0001898--zigzag hair	2615
+MA_0000561--thorax muscle	2616
+MA_0000568--head/neck blood vessel	2617
+MA_0001892--adrenal gland zona reticularis	2618
+MA_0000567--visceral mesothelium	2619
+MA_0001893--auchene hair	2620
+MA_0002740--trigeminal V principal sensory nucleus	2621
+MA_0000566--parietal mesothelium	2622
+MA_0002741--brainstem white matter	2623
+MA_0001894--awl hair	2624
+MA_0001895--duvet hair	2625
+MA_0002742--cerebellar peduncle	2626
+MA_0000570--head/neck connective tissue	2627
+MA_0001427--cervical vertebra 7	2628
+MA_0002758--levator auris longus	2629
+MA_0001428--lumbar vertebra 1	2630
+MA_0001429--lumbar vertebra 2	2631
+MA_0000575--head blood vessel	2632
+MA_0001423--cervical vertebra 3	2633
+MA_0000574--head/neck skin	2634
+MA_0001424--cervical vertebra 4	2635
+MA_0000573--head/neck organ	2636
+MA_0001425--cervical vertebra 5	2637
+MA_0002756--lateral spinal nucleus	2638
+MA_0000572--head/neck nerve/ganglion	2639
+MA_0001426--cervical vertebra 6	2640
+MA_0002757--periolivary nucleus	2641
+MA_0000579--cranial/facial muscle	2642
+MA_0002750--spinal cord lateral column	2643
+MA_0002751--spinal cord ventral column	2644
+MA_0000577--head connective tissue	2645
+MA_0002752--nucleus approprius	2646
+MA_0000576--head bone	2647
+MA_0002753--spinal cord intermediolateral nucleus	2648
+MA_0000581--head organ	2649
+MA_0000580--head nerve/ganglion	2650
+MA_0001438--thoracic vertebra 1	2651
+MA_0001439--thoracic vertebra 2	2652
+MA_0000102--outflow tract pulmonary component	2653
+MA_0000586--neck cartilage	2654
+MA_0001434--sacral vertebra 1	2655
+MA_0000101--outflow tract aortic component	2656
+MA_0000585--neck connective tissue	2657
+MA_0001435--sacral vertebra 2	2658
+MA_0000100--outflow tract	2659
+MA_0000584--neck bone	2660
+MA_0001436--sacral vertebra 3	2661
+MA_0000583--neck blood vessel	2662
+MA_0001437--sacral vertebra 4	2663
+MA_0001430--lumbar vertebra 3	2664
+MA_0000105--cellular cartilage	2665
+MA_0000589--neck organ	2666
+MA_0001431--lumbar vertebra 4	2667
+MA_0000588--neck nerve	2668
+MA_0001432--lumbar vertebra 5	2669
+MA_0001433--lumbar vertebra 6	2670
+MA_0001440--thoracic vertebra 3	2671
+MA_0000593--arm connective tissue	2672
+MA_0000592--arm bone	2673
+MA_0000591--arm blood vessel	2674
+MA_0000119--adrenal gland medulla	2675
+MA_0000118--adrenal gland cortex	2676
+MA_0001449--thoracic vertebra 12	2677
+MA_0000597--lower arm blood vessel	2678
+MA_0001445--thoracic vertebra 8	2679
+MA_0001446--thoracic vertebra 9	2680
+MA_0000111--annulus fibrosus	2681
+MA_0000595--arm nerve	2682
+MA_0001447--thoracic vertebra 10	2683
+MA_0001448--thoracic vertebra 11	2684
+MA_0001441--thoracic vertebra 4	2685
+MA_0001442--thoracic vertebra 5	2686
+MA_0000599--lower arm connective tissue	2687
+MA_0001443--thoracic vertebra 6	2688
+MA_0000598--lower arm bone	2689
+MA_0001444--thoracic vertebra 7	2690
+MA_0001450--thoracic vertebra 13	2691
+MA_0001451--vertebra caudal articular process	2692
+MA_0001456--vertebra transverse process	2693
+MA_0002303--dorsal foot interosseus muscle	2694
+MA_0002305--foot lumbrical muscle	2695
+MA_0001452--vertebra cranial articular process	2696
+MA_0001453--vertebra dorsal arch	2697
+MA_0000126--ventral pancreatic duct	2698
+MA_0000125--dorsal pancreatic duct	2699
+MA_0001455--vertebra spinous process	2700
+MA_0002302--foot interosseus muscle	2701
+MA_0001460--ovary stratum granulosum	2702
+MA_0001462--basioccipital bone	2703
+MA_0002314--dorsal hand interosseus muscle	2704
+MA_0002316--hand lumbrical muscle	2705
+MA_0000132--thyroid gland medulla	2706
+MA_0001463--basisphenoid bone	2707
+MA_0001464--exoccipital bone	2708
+MA_0001465--fontanel	2709
+MA_0001470--presphenoid bone	2710
+MA_0001471--pterygoid bone	2711
+MA_0001473--squamosal bone	2712
+MA_0000146--skin gland	2713
+MA_0001478--chondrocranium bone	2714
+MA_0002325--intercostales externus	2715
+MA_0000144--integumental system gland	2716
+MA_0002327--intrinsic tongue muscle	2717
+MA_0001474--supraoccipital bone	2718
+MA_0000149--skin sebaceous gland	2719
+MA_0000148--skin mucous gland	2720
+MA_0000147--skin apocrine gland	2721
+MA_0001477--temporal bone petrous part	2722
+MA_0001481--lower respiratory tract epithelium	2723
+MA_0001482--viscerocranium bone	2724
+MA_0001480--respiratory tract epithelium	2725
+MA_0001005--cerebellum lobule VIII	2726
+MA_0001489--mandible squamous part	2727
+MA_0000155--coat hair	2728
+MA_0001007--cerebellum lobule X	2729
+MA_0001001--cerebellum lobule IV	2730
+MA_0001002--cerebellum lobule V	2731
+MA_0001003--cerebellum lobule VI	2732
+MA_0000158--hair medulla	2733
+MA_0001004--cerebellum lobule VII	2734
+MA_0001488--mandible petrous part	2735
+MA_0002335--longissimus atlantis	2736
