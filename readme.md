@@ -49,7 +49,7 @@ Due to the instability of embedding-based methods, it is acceptable that the res
 ## Parameters and results
 * The detailed results of MultiOM in datsset MA2NCI is shown in the following picture.
 ![aaab](https://github.com/chunyedxx/MultiOM/blob/master/img/result1.png)
-* The detailed results of MultiOM in datsset FMA2NCI is shown in the following picture.
+* The results and the comparison results of MultiOM in datsset FMA2NCI is shown in the following picture.
 ![aaac](https://github.com/chunyedxx/MultiOM/blob/master/img/result2.png)
 # Citation
 If you use this model or code, please cite it as follows:  
