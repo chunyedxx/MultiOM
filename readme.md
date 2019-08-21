@@ -68,7 +68,7 @@ Due to the instability of embedding-based methods, it is acceptable that the res
 ![aaab](https://github.com/chunyedxx/MultiOM/blob/master/img/result1.png)
 *  The comparison results of MA2NCI and FMA2NCI are shown in the following picture：
 ![aaac](https://github.com/chunyedxx/MultiOM/blob/master/img/result2.png)
-* you can evalute our results accroding to run AlignEval.py directly.
+* You can run AlignEval.py to evalute our alignments stored in alignmentresult file.
 # Citation
 If you use this model or code, please cite it as follows:  
 Weizhuo Li, Xuxiang Duan, Meng Wang, XiaoPing Zhang, and Guilin Qi. Multi-view Embedding for Biomedical Ontology Matching. In: OM 2019.
