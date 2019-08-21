@@ -4,7 +4,7 @@ The structure of the model is shown in the figure, as follow:
 ![](https://github.com/chunyedxx/MultiOM.git/master/model_structure.png)
 ## Model structure 
 The structure of the model is shown as the figure:
-![](https://github.com/chunyedxx/MultiOM.git/raw/master/model_structure.png)
+![](https://github.com/chunyedxx/MultiOM/blob/master/model_structure.png)
 # Code
 the model in our experiment are in the following scripts:  
 * ontomap.py  
