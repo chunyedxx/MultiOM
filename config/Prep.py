@@ -87,7 +87,7 @@ class Prep(object):
         self.tripletotal = 0
         self.constrain_nci_tripletotal = 0
         self.constrain_ma_tripletotal = 0
-        self.in_path = "./Datasets/DXX/DXX_UQU"
+        self.in_path = "./datasets/DXX/DXX_UQU"
         self.nbatches = 0
         self.negative_ent = 1
         self.modelname = None

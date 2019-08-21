@@ -3,7 +3,7 @@ import models
 import os
 os.environ['CUDA_VISIBLE_DEVICES'] = '0'
 con = config.Config()
-con.set_in_path(".\\Datasets\DXX\DXX_SYN")
+con.set_in_path(".\\datasets\DXX\DXX_SYN")
 con.set_train_times(1000)
 con.set_batches(10)
 con.set_alpha(0.01)
