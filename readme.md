@@ -45,12 +45,12 @@ the train data are in the directory as follows, you can train the different data
 Due to the instability of embedding-based methods, it is acceptable that the results fluctuate a little bit (±1%) when running code repeatedly.
 ## Training parameters
 * The training parameters are same in the two datasets.
-  train times:1000
-  batchsize:10
-  learning rate:0.01
-  embedding size:50
-  negative rate:10
-  negative sampling:”unif”
+  train times:1000  
+  batchsize:10  
+  learning rate:0.01  
+  embedding size:50  
+  negative rate:10  
+  negative sampling:”unif”  
   optimize method:”SGD”
 ## Matching process 
 * Firstly, you need to run the script train_ontomap.py; secondly, run the script train_ontomapsyn.py.
