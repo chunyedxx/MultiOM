@@ -1,0 +1,3 @@
+partof	0
+subClassof	1
+disjointWith	2

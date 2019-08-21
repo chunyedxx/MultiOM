@@ -1,0 +1,642 @@
+anterior longitudinal ligament	0
+immune system	1
+troponin i	2
+troponin t	3
+calcium binding protein	4
+joints	5
+sacrococcygeal joint	6
+pectoralis minor	7
+sertoli cell	8
+left ureter	9
+minor salivary gland	10
+interventricular septum	11
+mitochondrial crista	12
+thoracic vii vertebra	13
+periosteal cell	14
+dendritic cell	15
+external capsule	16
+peyer s patch	17
+tarsal plate	18
+pericardiacophrenic vein	19
+axoaxonic synapse	20
+radial nerve	21
+parietal pleura	22
+metatarsal bone	23
+mediastinal lymph node	24
+microtubule triplet	25
+chromaffin cell	26
+anal column	27
+lacrimal canaliculus	28
+supra orbital vein	29
+levator palpebrae superioris	30
+nerve plexus	31
+ependymal cell	32
+postcentral sulcus	33
+cerebral aqueduct	34
+endometrial stroma	35
+adhesive junction	36
+vermiform appendix	37
+pleural mesothelial cell	38
+elastin fiber	39
+fovea centralis	40
+macula lutea	41
+chief cell	42
+reticular cell	43
+cervical iii vertebra	44
+elbow joint	45
+tongue muscle	46
+late endosome	47
+gamma motor neuron	48
+physical state	49
+left kidney	50
+portal lobule	51
+fascia lata	52
+extrahepatic bile duct	53
+membranous cytoplasmic organelle	54
+special sense organ system	55
+esophageal squamous cell	56
+posterior temporal artery	57
+nuclear matrix	58
+iliac lymph node	59
+efferent ductule	60
+ductus arteriosus	61
+posterior meningeal artery	62
+sacral iv vertebra	63
+beta adrenergic receptor	64
+flexor carpi ulnaris	65
+orbital sulcus	66
+sex chromosome	67
+papillary muscle	68
+urinary space	69
+superior vena cava	70
+brachial vein	71
+right ovary	72
+cartilage cell	73
+band cell	74
+pulmonary lobule	75
+basophilic cell	76
+tuberculum sellae	77
+dorsal metatarsal vein	78
+renal interstitial cell	79
+lower eyelid	80
+descending limb of henle s loop	81
+myelinated nerve fiber	82
+primary oocyte	83
+tunica intima	84
+right common iliac artery	85
+left renal artery	86
+myo inositol	87
+upper gastrointestinal tract	88
+submandibular duct	89
+coronary artery	90
+deep vein	91
+superior vesical artery	92
+semicircular canal	93
+retina layer	94
+ectocervical squamous cell	95
+cortical bone	96
+blood vessel	97
+ciliary process	98
+prostatic urethra	99
+peripheral nervous system	100
+collateral fissure	101
+intestinal epithelium	102
+atlanto occipital joint	103
+decidua basalis	104
+buccal mucosa	105
+thyroid ima artery	106
+renal pyramid	107
+splenic trabecula	108
+haversian canal	109
+hspg	110
+palatal muscle	111
+hepatic vein	112
+synaptic cleft	113
+canine tooth	114
+temporal bone	115
+cervical iv vertebra	116
+free ribosome	117
+deep middle cerebral vein	118
+esophageal glandular cell	119
+bulbus cordis	120
+amniotic cavity	121
+parathyroid gland chief cell	122
+glia	123
+neuroendocrine cell	124
+skeletal muscle tissue	125
+bile canaliculus	126
+rectus femoris	127
+external intercostal muscle	128
+biceps femoris	129
+cytoskeletal protein	130
+carpometacarpal joint	131
+extraembryonic coelom	132
+giant cell	133
+free nerve ending	134
+acinar cell	135
+processus cochleariformis	136
+islet cell	137
+lamina propria	138
+intercalated cell	139
+ductus venosus	140
+cell morphology	141
+interleukin iiib	142
+esophageal gland	143
+small intestinal goblet cell	144
+space of mall	145
+superficial cervical artery	146
+gastroesophageal junction	147
+zygoma	148
+corpus callosum	149
+triangular ligament	150
+deep lymphatic vessel	151
+sella turcica	152
+cephalic vein	153
+interphase chromosome	154
+unipolar neuron	155
+parietal bone	156
+meckel s diverticulum	157
+nuclear lamin	158
+secretory cell	159
+pyloric sphincter	160
+buccal artery	161
+splenial artery	162
+suppressor inducer t lymphocyte	163
+cardiac vein	164
+rna	165
+suprarenal vein	166
+popliteal lymph node	167
+carotid artery	168
+cauda equina	169
+male breast	170
+superior anastomotic vein of trolard	171
+cystic vein	172
+corneal endothelium	173
+lingual salivary gland	174
+substantia gelatinosa	175
+sphenoparietal sinus	176
+thoracic ii vertebra	177
+deciduous tooth	178
+t9 vertebra	179
+myocyte	180
+left renal vein	181
+pseudostratified columnar epithelium	182
+superficial vein	183
+cclumbar iivi	184
+lateral thyrohyoid ligament	185
+cc chemokine	186
+bone marrow stem cell	187
+interstitial cell	188
+surface ectoderm	189
+electrical synapse	190
+sacral vertebra	191
+internal thoracic vein	192
+glucuronic acid	193
+windpipe	194
+extensor carpi radialis brevis	195
+brachial artery	196
+totipotent neuroepithelial stem cell	197
+renal tubule	198
+anterior communicating artery	199
+argentaffin cell	200
+thymus cortex	201
+right hypochondriac region	202
+nissl body	203
+leg skin	204
+portal venous system	205
+gall bladder	206
+anterior tibial vein	207
+masseteric vein	208
+longissimus capitis	209
+cell surface	210
+alpha adrenergic receptor	211
+elastic fiber	212
+right lung	213
+gluteus medius	214
+lymphatic system	215
+histone hiia	216
+actin filament	217
+submandibular gland	218
+langerhans cell	219
+brunner s glands	220
+ascending colon	221
+alveolar sac	222
+carpal joint	223
+upper jaw	224
+wrist skin	225
+small intestinal crypt of lieberkuhn	226
+extensor carpi radialis longus	227
+axodendritic synapse	228
+lumbar artery	229
+keratin filament	230
+hepatogastric ligament	231
+embryonic stem cell	232
+capillary endothelium	233
+decidua capsularis	234
+rotator cuff	235
+episcleral layer	236
+flexor carpi radialis	237
+cerebral white matter	238
+striated border	239
+occipital artery	240
+zygomaticus major	241
+left lung	242
+fenestrated capillary	243
+lower jaw	244
+muscle spindle	245
+glomus cell	246
+ciliated bronchial epithelial cell	247
+peptide hormone	248
+ileocecal valve	249
+cricothyroid ligament	250
+foramen secundum	251
+crus helicis	252
+ileal vein	253
+lateral ventricle	254
+amygdaloid nucleus	255
+nephrogenic cord	256
+bronchi	257
+posterior tibial vein	258
+medial forebrain bundle	259
+juxtaglomerular cell	260
+cerebellopontine angle	261
+thyroid gland follicular cell	262
+bone tissue	263
+bronchial tree	264
+middle ear	265
+ascending limb of henle s loop	266
+axillary lymph node	267
+thyroepiglottic ligament	268
+deep temporal vein	269
+histone hiii	270
+foam cell	271
+histone hiv	272
+lens capsule	273
+stomatognathic system	274
+inferior vena cava	275
+polychromatophilic erythroblast	276
+olfactory receptor cell	277
+hair root	278
+labium minus	279
+superior thoracic artery	280
+lumbar v vertebra	281
+nucleus ambiguus	282
+posterior external jugular vein	283
+sigmoid artery	284
+actin binding protein	285
+sarcoplasmic reticulum	286
+hyaline cartilage	287
+dopamine receptor	288
+vastus lateralis	289
+dna	290
+tracheal epithelium	291
+common iliac artery	292
+sinus venosus	293
+squamous cell	294
+bulbar conjunctiva	295
+left fallopian tube	296
+left hepatic duct	297
+trigonum olfactorium	298
+atlanto axial joint	299
+auditory ossicle	300
+collagen fibril	301
+neural crest cell	302
+tuber cinereum	303
+external ear cartilage	304
+nerve root	305
+inferior suprarenal artery	306
+pancreatic vein	307
+cell to extracellular matrix junction	308
+alveolar macrophage	309
+histone hi	310
+venule endothelium	311
+transitional cell	312
+phrenic artery	313
+embryonic tissue	314
+pelvic girdle	315
+islets of langerhans	316
+right renal artery	317
+elastic cartilage	318
+exocrine system	319
+synovial bursa	320
+hyoid bone	321
+messenger rna	322
+splenic cord	323
+postcapillary venule	324
+brush cell	325
+lentiform nucleus	326
+superior temporal gyrus	327
+parasympathetic nervous system	328
+special sense organ	329
+right kidney	330
+erector spinae	331
+subtalar joint	332
+mesodermal cell	333
+gamma tubulin	334
+ligamentum flavum	335
+thyroid gland lobe	336
+lateral thoracic artery	337
+sacral plexus	338
+submandibular ganglion	339
+striated muscle cell	340
+subsegmental bronchus	341
+corpus luteum	342
+steroid hormone	343
+seminal vesicle secretion	344
+anterior tibial artery	345
+tensor tympani	346
+canalis radicis dentis	347
+lateral orbitofrontal artery	348
+triangular bone	349
+palatine tonsil	350
+arm skin	351
+right subclavian artery	352
+tonsillar crypt	353
+longus capitis	354
+ligaments	355
+vas deferens	356
+vocal cord	357
+schwann cell	358
+spine	359
+piriform sinus	360
+third ventricle	361
+external jugular vein	362
+y chromosome	363
+anterior inferior cerebellar artery	364
+hepatic artery	365
+epithelioid cell	366
+precentral sulcus	367
+transitional epithelium	368
+musculus pectoralis major	369
+sigmoid colon	370
+preputium penis	371
+arachnoid villus	372
+hard palate	373
+juxtaglomerular apparatus	374
+striated muscle tissue	375
+thyroid cartilage	376
+primary ossification center	377
+gastric foveola	378
+short bone	379
+paranasal sinus	380
+sacral nerve	381
+neck skin	382
+interventricular foramen	383
+internal cerebral vein	384
+transport vesicle	385
+linker dna	386
+temporal artery	387
+anal gland	388
+nasal mucus	389
+keratan sulfate	390
+structural gene	391
+right hepatic duct	392
+prostatic stroma	393
+ankle joint	394
+interstitial cell of cajal	395
+perianal skin	396
+crypt of lieberkuhn	397
+glandular cell	398
+left ovary	399
+small intestine	400
+simple squamous epithelium	401
+tertiary bronchus	402
+teres minor muscle	403
+plantar region	404
+nuclear inclusion	405
+rib head	406
+chondroitin sulfate	407
+posterior cranial fossa	408
+renal corpuscle	409
+fetal heart	410
+superior mesenteric vein	411
+multipolar neuron	412
+neck of femur	413
+trophoblastic cell	414
+cell adhesion molecule	415
+basaloid cell	416
+monocyte chemoattractant protein iii	417
+common cardinal vein	418
+left suprarenal vein	419
+transverse rectal fold	420
+celiac ganglion	421
+pluripotent stem cell	422
+lymphatic capillary	423
+endosteal cell	424
+thoracic duct	425
+nasal bone	426
+pyloric gland	427
+auditory cortex	428
+neural stem cell	429
+pericallosal artery	430
+maxillary artery	431
+right ureter	432
+parasympathetic ganglion	433
+rectus abdominis	434
+cuboid bone	435
+beta cell	436
+seminal fluid	437
+flat bone	438
+stratified squamous epithelium	439
+intervertebral disc	440
+bronchioles	441
+bronchial vein	442
+lower gastrointestinal tract	443
+hepatic sinusoid	444
+peripheral blood cell	445
+thoracic iii vertebra	446
+transverse plane	447
+phalanges of foot	448
+anterior cruciate ligament	449
+septum primum	450
+common palmar digital artery	451
+olfactory bulb	452
+glans penis	453
+neural crest	454
+intermediate type trophoblastic cell	455
+musculus latissimus dorsi	456
+heparan sulfate	457
+temporal vein	458
+sheath of schwann	459
+secretory granule	460
+intermediate filament	461
+cytoplasmic inclusion	462
+superior hemorrhoidal artery	463
+eccrine sweat gland	464
+vertebral artery	465
+septum secundum	466
+lower esophageal sphincter	467
+molar tooth	468
+cricothyroid joint	469
+blood capillary	470
+major salivary gland	471
+anterior auricular vein	472
+lymphokine activated natural killer cell	473
+membranous labyrinth	474
+hexanoic acid	475
+left subcostal vein	476
+semispinalis capitis	477
+intestinal secretion	478
+anterior meningeal artery	479
+fusiform cell	480
+waldeyer s tonsillar ring	481
+foramen magnum	482
+gastric glandular cell	483
+temporal muscle	484
+cell junction	485
+right testis	486
+ganglion cell	487
+tdlu	488
+obturator muscle	489
+sulcus limitans	490
+tentorium cerebelli	491
+internal thoracic artery	492
+gastrophrenic ligament	493
+peritoneal macrophage	494
+buccal salivary gland	495
+semicircular duct	496
+left cerebral hemisphere	497
+acromioclavicular joint	498
+collagen fiber	499
+cricothyroid muscle	500
+posterior parietal artery	501
+decidual cell	502
+femoral artery	503
+prostatic epithelium	504
+thyrohyoid ligament	505
+cutaneous vein	506
+retroperitoneal space	507
+ileocolic vein	508
+subarachnoid cistern	509
+esophageal artery	510
+nonmembranous cytoplasmic organelle	511
+hair bulb	512
+vitelline vein	513
+interleukin iii	514
+interleukin ii	515
+gastrocolic ligament	516
+lacrimal sac	517
+ovarian vein	518
+gingival epithelium	519
+labial salivary gland	520
+cytoplasmic organelle	521
+retinal pigment epithelium	522
+transfer rna	523
+respiratory bronchiole	524
+columnar cell	525
+retinal artery	526
+ampullary crest	527
+inguinal lymph node	528
+bone surface	529
+abdominal skin	530
+brain nucleus	531
+thoracic i vertebra	532
+theca lutein cell	533
+endocervical columnar cell	534
+granulosa lutein cell	535
+macula densa	536
+temporal fossa	537
+cell component	538
+taste bud cell	539
+intrapulmonary bronchus	540
+dopaminergic cell	541
+yolk sac	542
+large intestinal crypt of lieberkuhn	543
+ciliary muscle	544
+chromophobe cell	545
+delta cell	546
+facial vein	547
+choroidal fissure	548
+umbilical cord	549
+anterior spinal artery	550
+dentate gyrus	551
+endodermal cell	552
+perineal artery	553
+posterior auricular vein	554
+endocrine cell	555
+toe nail	556
+palatine bone	557
+palatine salivary gland	558
+goblet cell	559
+cervical nerve	560
+superficial temporal vein	561
+quadrigeminal artery	562
+anal sinus	563
+nasal cartilage	564
+medial tarsal artery	565
+nitrergic neuron	566
+secondary bronchus	567
+chest wall	568
+enteric ganglion	569
+axillary artery	570
+polychromatophilic erythrocyte	571
+mucosa of upper lip	572
+ulnar nerve	573
+lumbar vertebra	574
+epiglottic cartilage	575
+glial fibrillary acidic protein	576
+totipotent stem cell	577
+respiratory bronchiole epithelium	578
+falx cerebelli	579
+lacrimal bone	580
+hepatic duct	581
+right renal vein	582
+lumbar ii vertebra	583
+sulcus terminalis	584
+merkel cell	585
+anterior olfactory nucleus	586
+endocrine pancreas	587
+iliocostalis thoracis	588
+eustachian valve	589
+supramarginal gyrus	590
+xiphoid process	591
+pacinian corpuscle	592
+autonomic ganglion	593
+renshaw cell	594
+cerebral vein	595
+paranasal sinus epithelium	596
+ankle skin	597
+intestinal mucosa	598
+cochlear labyrinth	599
+posterior choroidal artery	600
+stratum germinativum	601
+paneth cell	602
+intercostal nerve	603
+aqueous humor	604
+cerebellar vein	605
+sciatic nerve	606
+ovarian artery	607
+apud cell	608
+hip joint	609
+bone of finger	610
+capitate bone	611
+medial meniscus	612
+masseteric artery	613
+lacrimal gland	614
+hyoepiglottic ligament	615
+perineal muscle	616
+csf	617
+lingual tonsil	618
+pancreatic centroacinar cell	619
+apocrine sweat gland	620
+inferior epigastric vein	621
+superior mediastinum	622
+body of pancreas	623
+umbilical vein	624
+interlobular bile duct	625
+obturator vein	626
+gastric gland	627
+chemical synapse	628
+cuboidal cell	629
+gum	630
+mitotic chromosome	631
+axosomatic synapse	632
+taste bud basal cell	633
+zona pellucida	634
+chyle cistern	635
+nuclear pore	636
+intermediate filament protein	637
+portal triad	638
+cutaneous muscle	639
+lateral meniscus	640
+smooth endoplasmic reticulum	641
