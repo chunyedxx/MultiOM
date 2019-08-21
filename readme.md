@@ -4,18 +4,18 @@ Source code and datasets for OM2019 paper "Multi-view Embedding for Biomedical O
 ![aaaa](https://github.com/chunyedxx/MultiOM/blob/master/img/model_structure.png)
 * A technical report is listed in the root directory of this project that shows an whole version of our method.
 # Code
-the model in our experiment are in the following scripts:  
-* ontomap.py  
-* ontomapsyn.py
-To train these model, please run:  
-* TrainOntomap.py  
-* TrainOntomapSyn.py  
-To evalute the effective of our model, please run the scripts in align_evalute:  
-* AlignOnto.py  
-* AlignOntoSyn.py  
-* AlignTfidf.py  
-* AlignOntoOntoSyn.py  
-* AlignOnOntoSynTf.py  
+* the model in our experiment are in the following scripts:  
+  ontomap.py  
+  ontomapsyn.py  
+* To train these model, please run:  
+  TrainOntomap.py  
+  TrainOntomapSyn.py  
+* To evalute the effective of our model, please run the scripts in align_evalute:  
+  AlignOnto.py  
+  AlignOntoSyn.py  
+  AlignTfidf.py  
+  AlignOntoOntoSyn.py  
+  AlignOnOntoSynTf.py  
 ## Dependencies
 * Python 3  
 * Tensorflow (>=1.2)  
