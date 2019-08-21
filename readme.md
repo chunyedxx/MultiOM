@@ -52,10 +52,14 @@ Due to the instability of embedding-based methods, it is acceptable that the res
   negative rate:10  
   negative sampling:”unif”  
   optimize method:”SGD”
-## Matching process 
+## Alignment process 
 * Firstly, you need to run the script train_ontomap.py; secondly, run the script train_ontomapsyn.py.
 * Nextly, you need to change the directory in align_onto.py or align_ontosyn.py and so on, and you can get the result you want.
-## Matching parameters
+## Alignment parameters
+The Alignment process as follows:
+![aaae](https://github.com/chunyedxx/MultiOM/blob/master/img/result3.png)  
+The details alignment parameters as follows:
+![aaaf](https://github.com/chunyedxx/MultiOM/blob/master/img/M%6042QD2_F_%5B5%7D%7D%5B%40%24%60IEA%7B1.png)  
 ## results
 * The detailed results of MultiOM in datsset MA2NCI is shown in the following picture.
 ![aaab](https://github.com/chunyedxx/MultiOM/blob/master/img/result1.png)
