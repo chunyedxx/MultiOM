@@ -6,16 +6,16 @@ Source code and datasets for OM2019 paper "Multi-view Embedding for Biomedical O
 # Code
 the model in our experiment are in the following scripts:  
 * ontomap.py  
-* ontomap_syn.py  
+* ontomapsyn.py  
 To train these model, please run；  
 * TrainOntomap.py  
 * TrainOntomapSyn.py  
 To evalute the effective of our model, please run the scripts in align_evalute:  
-* align_onto.py  
-* align_onto_syn.py  
-* align_tfidf.py  
-* align_onto_ontosyn.py  
-* align_onto_ontosyn_tfidf.py  
+* AlignOnto.py  
+* AlignOntoSyn.py  
+* AlignTfidf.py  
+* AlignOntoOntoSyn.py  
+* AlignOnOntoSynTf.py  
 ## Dependencies
 * Python 3  
 * Tensorflow (>=1.2)  
@@ -38,8 +38,12 @@ The dataset DXX_FMA2NCI, which realizes the alignment FMA to NCI,and uses the on
 * DXX_UQU
 ## Directory structure
 the train data are in the directory as follows, you can train the different datasets accroding to change the directory.  
-* ../Datasets/DXX_UQU  
-* ../Datasets/DXX_SYN
+* DXX_MA2NCI  
+  ../Datasets/DXX_MA2NCI/DXX_UQU  
+  ../Datasets/DXX_MA2NCI/DXX_SYN  
+* DXX_FMA2NCI  
+  ../Datasets/DXX_FMA2NCI/DXX_UQU  
+  ../Datasets/DXX_FMA2NCI/DXX_SYN  
 # Running and parameters
 Due to the instability of embedding-based methods, it is acceptable that the results fluctuate a little bit (±1%) when running code repeatedly.
 ## Training parameters
@@ -52,8 +56,8 @@ Due to the instability of embedding-based methods, it is acceptable that the res
   negative sampling:”unif”  
   optimize method:”SGD”
 ## Alignment process 
-* Firstly, you need to run the script train_ontomap.py; secondly, run the script train_ontomapsyn.py.
-* Nextly, you need to change the directory in align_onto.py or align_ontosyn.py and so on, and you can get the result you want.
+* Firstly, you need to run the script TrainOntomap.py; secondly, run the script TrainOntomapSyn.py.
+* Nextly, you need to change the directory in AlignOnto.py or AlignOntoSyn.py and so on, and you can get the result you want.
 ## Alignment parameters
 * The Alignment process as follows:  
 ![aaae](https://github.com/chunyedxx/MultiOM/blob/master/img/result3.png)  
