@@ -47,8 +47,10 @@ Due to the instability of embedding-based methods, it is acceptable that the res
 * Firstly, you need to run the script train_ontomap.py; secondly, run the script train_ontomapsyn.py.
 * Nextly, you need to change the directory in align_onto.py or align_ontosyn.py and so on, and you can get the result you want.
 ## Parameters and results
-The detailed results of MA2NCI is shown in the following picture:
+The detailed results of MultiOM in datsset MA2NCI is shown in the following picture.
 ![aaab](https://github.com/chunyedxx/MultiOM/blob/master/img/result1.png)
+The detailed results of MultiOM in datsset FMA2NCI is shown in the following picture.
+![aaac](https://github.com/chunyedxx/MultiOM/blob/master/img/result2.png)
 # Citation
 If you use this model or code, please cite it as follows:  
 Weizhuo Li, Xuxiang Duan, Meng Wang, XiaoPing Zhang, and Guilin Qi. Multi-view Embedding for Biomedical Ontology Matching. In: OM 2019.
