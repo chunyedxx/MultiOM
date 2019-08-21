@@ -143,7 +143,7 @@ class Config(Prep):
                     self.restore_tensorflow()
                 for times in range(self.train_times):
                     pro_res = 0.0
-                    if self.modelname == 'ontomap_syn':
+                    if self.modelname == 'ontomapsyn':
                         for bn, bm, _ in self.get_batch():
                             pro = self.train_syn_step(bn, bm)
                             pro_res += pro

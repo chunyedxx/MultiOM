@@ -15,10 +15,10 @@ def entity_idname_list(path):
 
 
 def get_embed_and_proj_mat():
-    f = open("..\\res\\uqu06123.embedding.vec.json", "r")
+    f = open("../res/uqu0622.embedding.vec.json", "r")
     parameters_dict = json.load(f)
     f.close()
-    f = open("..\\res\syn06123.embedding.vec.json", "r")
+    f = open("../res/syn0622.embedding.vec.json", "r")
     embedding = json.load(f)
     f.close()
     h_uqu_vec_list = parameters_dict["nci_ent_embeddings"][:3298]
@@ -74,8 +74,8 @@ def total_sub_dict(list1, list2, align_values_dict):
     return ent12ent2
 
 
-ma_list = entity_idname_list("..\Datasets\DXX\DXX_MA\entity2id_completelyname.txt")
-nci_list = entity_idname_list("..\Datasets\DXX\DXX_NCI\entity2id_completelyname.txt")
+ma_list = entity_idname_list("../datasets/DXX_MA2NCI/DXX_MA/entity2id_completelyname.txt")
+nci_list = entity_idname_list("../datasets/DXX_MA2NCI/DXX_NCI/entity2id_completelyname.txt")
 threshold = 0.95  # 这个阈值与onto_noto_syn一样，大于0.94都可以
 tfidf_align_values_dict, trained_align_values_dict, threshold_val_alignments = align_values_dict_fun(ma_list, nci_list, threshold)
 ma2nci1 = total_sub_dict(ma_list, nci_list, tfidf_align_values_dict)
@@ -114,7 +114,7 @@ def alignments_match(one2onealign, threshold_val_alignments):
 
 alignments = alignments_match(one2onealign, threshold_val_alignments)
 
-f = open('..\\reference\\referencemap.txt', "r")
+f = open('../reference/referencemap_ma2nci.txt', "r")
 referencemap = list(f)
 f.close()
 

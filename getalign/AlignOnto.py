@@ -69,8 +69,8 @@ def total_sub_dict(list1, list2, align_values_dict):
     return ent12ent2
 
 
-ma_list = entity_idname_list("..\Datasets\DXX\DXX_MA\entity2id_completelyname.txt")
-nci_list = entity_idname_list("..\Datasets\DXX\DXX_NCI\entity2id_completelyname.txt")
+ma_list = entity_idname_list("..\datasets\DXX\DXX_MA\entity2id_completelyname.txt")
+nci_list = entity_idname_list("..\datasets\DXX\DXX_NCI\entity2id_completelyname.txt")
 threshold = 0.95  # 0.95时会降低4个匹配
 trained_align_values_dict, threshold_val_alignments = align_values_dict_fun(ma_list, nci_list, threshold)
 ma2nci = total_sub_dict(ma_list, nci_list, trained_align_values_dict)

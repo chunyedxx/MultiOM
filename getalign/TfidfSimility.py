@@ -13,13 +13,13 @@ def cos_distance(x, y):
 
 
 def idf_statistical():
-    f = open("..\Datasets\DXX\DXX_MA\entity2id_completelyname.txt", 'r')
+    f = open("..\datasets\DXX_MA2NCI\DXX_MA\entity2id_completelyname.txt", 'r')
     malsit = list(f)
     f.close()
-    f = open("..\Datasets\DXX\DXX_NCI\entity2id_completelyname.txt", 'r')
+    f = open("..\datasets\DXX_MA2NCI\DXX_NCI\entity2id_completelyname.txt", 'r')
     ncilist = list(f)
     f.close()
-    f = open('..\synonyms\\rep.json', 'r')
+    f = open('..\synonyms\\rep_ma2nci.json', 'r', encoding='utf-8')
     rep = json.load(f)
     concept_list = malsit + ncilist
     concept_nums = len(concept_list)
@@ -45,7 +45,7 @@ def idf_statistical():
 
 def token_vec(idf_dict):
     vec_dict = {}
-    f = open("..\pretrained_vectors\pretrained-wikipedia-pubmed-and-PMC-w2v.txt", 'r')
+    f = open("..\pretrained_vectors\ma2nci_pretrained_vectors.txt", 'r', encoding='utf-8')
     for line in f:
         vec_list = []
         a = line.split(' ')
