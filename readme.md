@@ -1,9 +1,8 @@
 # MultiOM
 Source code and datasets for OM2019 paper "Multi-view Embedding for Biomedical Ontology Matching "
-The structure of the model is shown in the figure, as follow:
-## Model structure 
-The structure of the model is shown as the figure:
+* The structure of the model is shown in the figure, as follow:  
 ![aaaa](https://github.com/chunyedxx/MultiOM/blob/master/img/model_structure.png)
+* A technical report is listed in the root directory of this project that shows an whole version of our method.
 # Code
 the model in our experiment are in the following scripts:  
 * ontomap.py  
