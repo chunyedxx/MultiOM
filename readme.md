@@ -8,8 +8,8 @@ the model in our experiment are in the following scripts:
 * ontomap.py  
 * ontomap_syn.py  
 To train these model, please run；  
-* train_ontomap.py  
-* train_ontomap_syn.py  
+* TrainOntomap.py  
+* TrainOntomapSyn.py  
 To evalute the effective of our model, please run the scripts in align_evalute:  
 * align_onto.py  
 * align_onto_syn.py  
