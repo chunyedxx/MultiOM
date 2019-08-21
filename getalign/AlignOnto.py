@@ -1,6 +1,6 @@
 import numpy as np
-from tfidf_simility import cos_distance
-from stable_marriage import stable_marriage
+from TfidfSimility import idf_similarity, cos_distance
+from StableMarriage import stable_marriage
 import json
 
 

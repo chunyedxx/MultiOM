@@ -1,7 +1,9 @@
 import numpy as np
-from tfidf_simility import cos_distance
-from stable_marriage import stable_marriage
+from TfidfSimility import idf_similarity, cos_distance
+from StableMarriage import stable_marriage
 import json
+
+referencemap_txt_path = 'D:\ontomap_v.1.20\\reference\\referencemap.txt'
 
 
 def entity_idname_list(path):
@@ -20,15 +22,24 @@ f.close()
 
 
 def get_embed_and_proj_mat():
-    f = open("..\\res\syn0622.embedding.vec.json", "r")
+    f = open("..\\res\\uqu06123.embedding.vec.json", "r")
+    parameters_dict = json.load(f)
+    f.close()
+    f = open("..\\res\syn06123.embedding.vec.json", "r")
     embedding = json.load(f)
     f.close()
+    h_uqu_vec_list = parameters_dict["nci_ent_embeddings"][:3298]
+    m_uqu_vec_list = parameters_dict["ma_ent_embeddings"][:2737]
+    h_w_matric = parameters_dict["n2f_transfer_matrix"]
+    m_w_matric = parameters_dict["m2f_transfer_matrix"]
+    h_w_matric = np.reshape(h_w_matric, [50, 50])
+    m_w_matric = np.reshape(m_w_matric, [50, 50])
     h_syn_vec_list = embedding["nci_ent_embeddings"][:3298]
     m_syn_vec_list = embedding["ma_ent_embeddings"][:2737]
-    return h_syn_vec_list, m_syn_vec_list
+    return h_uqu_vec_list, m_uqu_vec_list, h_syn_vec_list, m_syn_vec_list, h_w_matric, m_w_matric
 
 
-h_syn_vec_list, m_syn_vec_list = get_embed_and_proj_mat()
+h_uqu_vec_list, m_uqu_vec_list, h_syn_vec_list, m_syn_vec_list, h_w_matric, m_w_matric = get_embed_and_proj_mat()
 
 
 def align_values_dict_fun(ma_list, nci_list, threshold=0.9):
@@ -36,10 +47,13 @@ def align_values_dict_fun(ma_list, nci_list, threshold=0.9):
     trained_align_values_dict = {}
     threshold_val_alignments = []
     for maent in ma_list:
+        ma_uqu_vec = m_uqu_vec_list[ma_list.index(maent)]
         ma_syn_vec = m_syn_vec_list[ma_list.index(maent)]
         for ncient in nci_list:
+            nci_uqu_vec = h_uqu_vec_list[nci_list.index(ncient)]
             nci_syn_vec = h_syn_vec_list[nci_list.index(ncient)]
-            simility_trained = cos_distance(nci_syn_vec, ma_syn_vec)
+            simility_trained = max(cos_distance(np.dot(h_w_matric, np.transpose(nci_uqu_vec)),
+                                        np.dot(m_w_matric, np.transpose(ma_uqu_vec))), cos_distance(nci_syn_vec, ma_syn_vec))
             trained_align_values_dict[maent + '\t' + ncient] = simility_trained
             if simility_trained >= threshold: threshold_val_alignments.append((maent, ncient))
             print(i)
@@ -66,7 +80,8 @@ def total_sub_dict(list1, list2, align_values_dict):
 
 ma_list = entity_idname_list("..\Datasets\DXX\DXX_MA\entity2id_completelyname.txt")
 nci_list = entity_idname_list("..\Datasets\DXX\DXX_NCI\entity2id_completelyname.txt")
-threshold = 0.95  # 0.98最好,0.9也很好
+# threshold = 0.95   # 0.94到0.97
+threshold = 0.99   # 0.94到0.97
 trained_align_values_dict, threshold_val_alignments = align_values_dict_fun(ma_list, nci_list, threshold)
 ma2nci1 = total_sub_dict(ma_list, nci_list, trained_align_values_dict)
 nci2ma1 = total_sub_dict(nci_list, ma_list, trained_align_values_dict)
@@ -98,12 +113,12 @@ def alignments_match(threshold_val_alignments):
 alignments = alignments_match(threshold_val_alignments)
 
 corres = 0
-with open('..res\\align_ontosyn.txt', 'w') as f:
+with open('..res\\jieguo.txt', 'w') as f:
     for i in alignments:
         if i[0] + ',' + i[1] + ',=\n' in referencemap:
             corres += 1
             f.write(i[0] + ',' + i[1] + ',=\n')
-print('*************** onto_syn ***************')
+print('*********** onto + onto_syn ***********')
 print('匹配总数：%ld' % len(alignments))
 print("正确个数：%ld" % corres)
 pre = corres / len(alignments)

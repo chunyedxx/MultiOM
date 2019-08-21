@@ -1,6 +1,6 @@
 import numpy as np
-from tfidf_simility import idf_similarity, cos_distance
-from stable_marriage import stable_marriage
+from TfidfSimility import idf_similarity, cos_distance
+from StableMarriage import stable_marriage
 import json
 
 
@@ -19,7 +19,7 @@ def align_values_dict_fun(ma_list, nci_list):
     tfidf_align_values_dict = {}
     for maent in ma_list:
         for ncient in nci_list:
-            simility_idf = idf_similarity(maent, ncient)
+            simility_idf = idf_similarity_str(maent, ncient)
             tfidf_align_values_dict[maent + '\t' + ncient] = simility_idf
             print(i)
             i += 1
@@ -61,14 +61,13 @@ align = []
 for i,j in one2onealign.items():
     if tfidf_align_values_dict[i + '\t' + j] >= 0.8:
         align.append(i + ',' + j + ',=\n')
-with open('..res\\align_tfidf.txt', 'w') as f:
+with open('..res\\jieguo_tfidf_str.txt', 'w') as f:
     for i in align:
         if i in referencemap:
             corres += 1
             tmp = i.split(',')
             ma, nci = tmp[0], tmp[1]
-            f.write(i)
-            # f.write(i.replace('\n', '') + str(tfidf_align_values_dict[ma + '\t' + nci]) + '\n')
+            f.write(i.replace('\n', '') + str(tfidf_align_values_dict[ma + '\t' + nci]) + '\n')
 
 print('**************** tfidf ****************')
 print('匹配总数：%ld' % len(align))

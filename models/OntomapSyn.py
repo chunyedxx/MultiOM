@@ -6,7 +6,7 @@ from .Model import Model
 import json
 
 
-class Ontomap_syn(Model):
+class Ontomapsyn(Model):
 
     def _transfer(self, trans_matrix, embeddings):
         return tf.matmul(trans_matrix, embeddings)

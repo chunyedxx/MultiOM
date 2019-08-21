@@ -1,9 +1,7 @@
 import numpy as np
-from tfidf_simility import cos_distance
-from stable_marriage import stable_marriage
+from TfidfSimility import idf_similarity, cos_distance
+from StableMarriage import stable_marriage
 import json
-
-referencemap_txt_path = 'D:\ontomap_v.1.20\\reference\\referencemap.txt'
 
 
 def entity_idname_list(path):
@@ -14,11 +12,6 @@ def entity_idname_list(path):
         ent_list.append(nent_name)
     f.close()
     return ent_list
-
-
-f = open('..\\reference\\referencemap.txt', "r")
-referencemap = list(f)
-f.close()
 
 
 def get_embed_and_proj_mat():
@@ -44,6 +37,7 @@ h_uqu_vec_list, m_uqu_vec_list, h_syn_vec_list, m_syn_vec_list, h_w_matric, m_w_
 
 def align_values_dict_fun(ma_list, nci_list, threshold=0.9):
     i = 1
+    tfidf_align_values_dict = {}
     trained_align_values_dict = {}
     threshold_val_alignments = []
     for maent in ma_list:
@@ -54,11 +48,13 @@ def align_values_dict_fun(ma_list, nci_list, threshold=0.9):
             nci_syn_vec = h_syn_vec_list[nci_list.index(ncient)]
             simility_trained = max(cos_distance(np.dot(h_w_matric, np.transpose(nci_uqu_vec)),
                                         np.dot(m_w_matric, np.transpose(ma_uqu_vec))), cos_distance(nci_syn_vec, ma_syn_vec))
+            simility_idf = idf_similarity(maent, ncient)
             trained_align_values_dict[maent + '\t' + ncient] = simility_trained
-            if simility_trained >= threshold: threshold_val_alignments.append((maent, ncient))
+            tfidf_align_values_dict[maent + '\t' + ncient] = simility_idf
+            if simility_trained >= threshold and simility_idf > 0.3: threshold_val_alignments.append((maent, ncient))
             print(i)
             i += 1
-    return trained_align_values_dict, threshold_val_alignments
+    return tfidf_align_values_dict, trained_align_values_dict, threshold_val_alignments
 
 
 def total_sub_dict(list1, list2, align_values_dict):
@@ -80,12 +76,13 @@ def total_sub_dict(list1, list2, align_values_dict):
 
 ma_list = entity_idname_list("..\Datasets\DXX\DXX_MA\entity2id_completelyname.txt")
 nci_list = entity_idname_list("..\Datasets\DXX\DXX_NCI\entity2id_completelyname.txt")
-# threshold = 0.95   # 0.94到0.97
-threshold = 0.99   # 0.94到0.97
-trained_align_values_dict, threshold_val_alignments = align_values_dict_fun(ma_list, nci_list, threshold)
-ma2nci1 = total_sub_dict(ma_list, nci_list, trained_align_values_dict)
-nci2ma1 = total_sub_dict(nci_list, ma_list, trained_align_values_dict)
+threshold = 0.95  # 这个阈值与onto_noto_syn一样，大于0.94都可以
+tfidf_align_values_dict, trained_align_values_dict, threshold_val_alignments = align_values_dict_fun(ma_list, nci_list, threshold)
+ma2nci1 = total_sub_dict(ma_list, nci_list, tfidf_align_values_dict)
+nci2ma1 = total_sub_dict(nci_list, ma_list, tfidf_align_values_dict)
 total_dict_1 = {'ma2nci': ma2nci1, 'nci2ma': nci2ma1}
+ma2nci2 = total_sub_dict(ma_list, nci_list, trained_align_values_dict)
+one2onealign = stable_marriage(total_dict_1)
 
 
 def alignment_filter(ma, nci, ma2nci, align_values_dict):
@@ -100,25 +97,32 @@ def alignment_filter(ma, nci, ma2nci, align_values_dict):
     return alignments
 
 
-def alignments_match(threshold_val_alignments):
+def alignments_match(one2onealign, threshold_val_alignments):
     alignments = []
     for align in threshold_val_alignments:
         ma, nci = align[0], align[1]
-        aligns = alignment_filter(ma, nci, ma2nci1, trained_align_values_dict)
+        aligns = alignment_filter(ma, nci, ma2nci2, trained_align_values_dict)
         for couple in aligns:
             if couple not in alignments: alignments.append(couple)
+    for ma, nci in one2onealign.items():
+        if (ma, nci) not in alignments and trained_align_values_dict[ma + '\t' + nci] >= 0.65:
+            if ma2nci1[ma].index(nci) <= 3 and tfidf_align_values_dict[ma + '\t' + nci] >= 0.8:
+                alignments.append((ma, nci))
+        else: pass
     return alignments
 
 
-alignments = alignments_match(threshold_val_alignments)
+alignments = alignments_match(one2onealign, threshold_val_alignments)
+
+f = open('..\\reference\\referencemap.txt', "r")
+referencemap = list(f)
+f.close()
 
 corres = 0
-with open('..res\\jieguo.txt', 'w') as f:
-    for i in alignments:
-        if i[0] + ',' + i[1] + ',=\n' in referencemap:
-            corres += 1
-            f.write(i[0] + ',' + i[1] + ',=\n')
-print('*********** onto + onto_syn ***********')
+for i in alignments:
+    if i[0] + ',' + i[1] + ',=\n' in referencemap:
+        corres += 1
+print('********** onto + onto_syn + tfidf **********')
 print('匹配总数：%ld' % len(alignments))
 print("正确个数：%ld" % corres)
 pre = corres / len(alignments)

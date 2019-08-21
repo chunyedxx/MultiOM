@@ -134,7 +134,7 @@ class Prep(object):
                     nciid = self.ncient2id[train_list[0]]  # nci
                     maid = self.maent2id[train_list[1]]  # nci
                     fmaid = self.fmaent2id[train_list[2]]  # rel
-                if self.modelname == "ontomap_syn":
+                if self.modelname == "ontomapsyn":
                     triple_list.append((nciid, maid))
                 else:
                     triple_list.append((nciid, maid, fmaid))
