@@ -10,7 +10,7 @@ Source code and datasets for OM2019 paper "Multi-view Embedding for Biomedical O
 * To train these model, please run:  
   TrainOntomap.py  
   TrainOntomapSyn.py  
-* To evalute the effective of our model, please run the scripts in align_evalute:  
+* To evalute the effective of our model, please run the scripts in GetAlign:  
   AlignOnto.py  
   AlignOntoSyn.py  
   AlignTfidf.py  
