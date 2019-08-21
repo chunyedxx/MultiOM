@@ -6,8 +6,8 @@ Source code and datasets for OM2019 paper "Multi-view Embedding for Biomedical O
 # Code
 the model in our experiment are in the following scripts:  
 * ontomap.py  
-* ontomapsyn.py  
-To train these model, please run；  
+* ontomapsyn.py
+To train these model, please run:  
 * TrainOntomap.py  
 * TrainOntomapSyn.py  
 To evalute the effective of our model, please run the scripts in align_evalute:  
