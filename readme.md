@@ -62,7 +62,7 @@ Due to the instability of embedding-based methods, it is acceptable that the res
 ## results
 * The comparison results of MA2NCI and FMA2NCI are shown in the following picture：
 ![aaab](https://github.com/chunyedxx/MultiOM/blob/master/img/result1.png)
-* The results and the comparison results of MultiOM in datsset FMA2NCI is shown in the following picture.
+* The results and the comparison results of MultiOM in datsset FMA2NCI is shown in the following picture：
 ![aaac](https://github.com/chunyedxx/MultiOM/blob/master/img/result2.png)
 # Citation
 If you use this model or code, please cite it as follows:  
