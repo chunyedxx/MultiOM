@@ -44,8 +44,8 @@ the train data are in the directory as follows, you can train the different data
 # Running and parameters
 Due to the instability of embedding-based methods, it is acceptable that the results fluctuate a little bit (±1%) when running code repeatedly.
 ## Trainning
-* Firstly,you need to run the script train_ontomap.py;secondly,run the script train_ontomapsyn.py.
-* Nextly,you need to change the directory in align_onto.py or align_ontosyn.py and so on,and you can get the result you want.
+* Firstly, you need to run the script train_ontomap.py; secondly, run the script train_ontomapsyn.py.
+* Nextly, you need to change the directory in align_onto.py or align_ontosyn.py and so on, and you can get the result you want.
 ## Parameters and results
 # Citation
 If you use this model or code, please cite it as follows:  
