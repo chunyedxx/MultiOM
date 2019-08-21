@@ -43,10 +43,20 @@ the train data are in the directory as follows, you can train the different data
 * ../Datasets/DXX_SYN
 # Running and parameters
 Due to the instability of embedding-based methods, it is acceptable that the results fluctuate a little bit (±1%) when running code repeatedly.
-## Trainning
+## Training parameters
+* The training parameters are same in the two datasets.
+** train times:1000
+** batchsize:10
+** learning rate:0.01
+** embedding size:50
+** negative rate:10
+** negative sampling:”unif”
+** optimize method:”SGD”
+## Matching process 
 * Firstly, you need to run the script train_ontomap.py; secondly, run the script train_ontomapsyn.py.
 * Nextly, you need to change the directory in align_onto.py or align_ontosyn.py and so on, and you can get the result you want.
-## Parameters and results
+## Matching parameters
+## results
 * The detailed results of MultiOM in datsset MA2NCI is shown in the following picture.
 ![aaab](https://github.com/chunyedxx/MultiOM/blob/master/img/result1.png)
 * The results and the comparison results of MultiOM in datsset FMA2NCI is shown in the following picture.
