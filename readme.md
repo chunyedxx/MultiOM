@@ -59,7 +59,7 @@ Due to the instability of embedding-based methods, it is acceptable that the res
 ![aaae](https://github.com/chunyedxx/MultiOM/blob/master/img/result3.png)  
 * The details alignment parameters as follows:  
 ![aaaf](https://github.com/chunyedxx/MultiOM/blob/master/img/M%6042QD2_F_%5B5%7D%7D%5B%40%24%60IEA%7B1.png)  
-## Results
+# Results
 * The comparison results of MA2NCI and FMA2NCI are shown in the following picture：
 ![aaab](https://github.com/chunyedxx/MultiOM/blob/master/img/result1.png)
 * The results and the comparison results of MultiOM in datsset FMA2NCI is shown in the following picture：
