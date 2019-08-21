@@ -18,12 +18,25 @@ To evalute the effective of our model, please run the scripts in align_evalute:
 * Tensorflow (>=1.2)  
 * Numpy
 # Datasets
-In our experiment, we use the Medical Ontology FMA, NCI and MA.The detail of our datasets are in the floder Datasets, you can get the whole datasets in it.
+In our experiments, we use the Medical Ontologys FMA, NCI,MA and SNOMED,FMA,NCI.The detail of our datasets are in the floder Datasets, you can get the whole datasets in it.
+## DXX_MA2NCI
+The dataset DXX_MA2NCI, which realizes the alignment MA to NCI,and uses the ontology FMA as the bridge.The files are: 
+* DXX_FMA
+* DXX_NCI
+* DXX_MA
+* DXX_SYN
+* DXX_UQU
+## DXX_FMA2NCI
+The dataset DXX_FMA2NCI, which realizes the alignment FMA to NCI,and uses the ontology SNOMED as the bridge.The files are: 
+* DXX_SNOMED
+* DXX_NCI
+* DXX_FMA
+* DXX_SYN
+* DXX_UQU
 ## Directory structure
-the train data are in the directory:  
+the train data are in the directory as follows, you can train the different datasets accroding to change the directory.  
 * ../Datasets/DXX_UQU  
-* ../Datasets/DXX_SYN  
-
+* ../Datasets/DXX_SYN
 # Running and parameters
 Due to the instability of embedding-based methods, it is acceptable that the results fluctuate a little bit (±1%) when running code repeatedly.
 # Citation
